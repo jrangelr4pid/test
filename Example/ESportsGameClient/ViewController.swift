@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import ESportsGameClient
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+      
+      Test.logMe()
     }
 
     override func didReceiveMemoryWarning() {
