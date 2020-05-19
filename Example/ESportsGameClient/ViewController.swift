@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import ESportsGameClient
 
 class ViewController: UIViewController {
 
@@ -14,6 +15,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+  
+  override func viewDidAppear(_ animated: Bool) {
+    super.viewDidAppear(animated)
+   
+    ESportsGameClient.Config.launchMode = .usingPartnerMemberToken(token: "testjust", publicToken: "13914810-df06-4adb-9838-f8e9668321e3")
+    ESportsGameClient.Config.accountName = "Justine Rangel"
+    ESportsGameClient.show(delegate: self)
+  }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -22,3 +31,29 @@ class ViewController: UIViewController {
 
 }
 
+
+extension ViewController: ESportsGameClientDelegate {
+  func esportsGameClientWillShow(_ controller: ESportsGameClientViewController) {
+    print(#function)
+  }
+  
+  func esportsGameClientDidShow(_ controller: ESportsGameClientViewController) {
+    print(#function)
+  }
+  
+  func esportsGameClientWillDismiss(_ controller: ESportsGameClientViewController) {
+    print(#function)
+  }
+  
+  func esportsGameClientDidDismiss(_ controller: ESportsGameClientViewController) {
+    print(#function)
+  }
+  
+  func esportsGameClientAccountTapped(_ controller: ESportsGameClientViewController) {
+    print(#function)
+  }
+  
+  func esportsGameClientPresentationController() -> UIViewController {
+    return self
+  }
+}

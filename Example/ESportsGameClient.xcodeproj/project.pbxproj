@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		0C1F5222E7ED78F36B7300BB /* Pods-ESportsGameClient_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESportsGameClient_Tests.release.xcconfig"; path = "Target Support Files/Pods-ESportsGameClient_Tests/Pods-ESportsGameClient_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		252F0F71F64ED3C046849620 /* Pods_ESportsGameClient_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ESportsGameClient_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		47C91783853AD25B0784CA87 /* ESportsGameClient.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ESportsGameClient.podspec; path = ../ESportsGameClient.podspec; sourceTree = "<group>"; };
+		47C91783853AD25B0784CA87 /* ESportsGameClient.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ESportsGameClient.podspec; path = ../ESportsGameClient.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5332866FB10CD3F4C294D938 /* Pods-ESportsGameClient_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESportsGameClient_Example.release.xcconfig"; path = "Target Support Files/Pods-ESportsGameClient_Example/Pods-ESportsGameClient_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ESportsGameClient_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ESportsGameClient_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		6B7F6A24B07BC65A907B5576 /* Pods_ESportsGameClient_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ESportsGameClient_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D569AF55761A300642984AE /* Pods-ESportsGameClient_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESportsGameClient_Example.debug.xcconfig"; path = "Target Support Files/Pods-ESportsGameClient_Example/Pods-ESportsGameClient_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		81F294022D4F691702C11A9A /* Pods-ESportsGameClient_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESportsGameClient_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ESportsGameClient_Tests/Pods-ESportsGameClient_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		9007FB10C49D60EC259D93EA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		EB32E8A6555DB74E8C7AFB95 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9007FB10C49D60EC259D93EA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		EB32E8A6555DB74E8C7AFB95 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +86,6 @@
 				81F294022D4F691702C11A9A /* Pods-ESportsGameClient_Tests.debug.xcconfig */,
 				0C1F5222E7ED78F36B7300BB /* Pods-ESportsGameClient_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -228,6 +227,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -294,10 +294,100 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ESportsGameClient_Example/Pods-ESportsGameClient_Example-frameworks.sh",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/react_native_safe_area_context.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/react_native_config.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/glog.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/yoga.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/UMReactNativeAdapter.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/UMPermissionsInterface.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/UMCore.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/UMAppLoader.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/ReactCommon.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/jsinspector.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/jsireact.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/jsi.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/cxxreact.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTVibration.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTText.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTSettings.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTNetwork.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTLinking.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTImage.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTBlob.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTAnimation.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTActionSheet.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/CoreModules.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/React.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RNScreens.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RNReanimated.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RNGestureHandler.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RNCMaskedView.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RCTTypeSafety.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/folly.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/FBReactNativeSpec.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXWebBrowser.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXUpdates.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXSQLite.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXPermissions.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXLocation.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXLinearGradient.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXKeepAwake.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXImageLoader.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXFont.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXFileSystem.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXErrorRecovery.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/EXConstants.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/DoubleConversion.framework",
+				"${PODS_ROOT}/../../ESportsGameClient/Frameworks/RNSVG.framework",
 				"${BUILT_PRODUCTS_DIR}/ESportsGameClient/ESportsGameClient.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/react_native_safe_area_context.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/react_native_config.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/glog.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/yoga.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UMReactNativeAdapter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UMPermissionsInterface.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UMCore.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UMAppLoader.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactCommon.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsinspector.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsireact.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/jsi.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/cxxreact.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTVibration.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTText.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTSettings.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTNetwork.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTLinking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTBlob.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTAnimation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTActionSheet.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CoreModules.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNScreens.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNReanimated.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNGestureHandler.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNCMaskedView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RCTTypeSafety.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/folly.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBReactNativeSpec.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXWebBrowser.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXUpdates.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXSQLite.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXPermissions.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXLocation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXLinearGradient.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXKeepAwake.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXImageLoader.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXFont.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXFileSystem.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXErrorRecovery.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EXConstants.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DoubleConversion.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNSVG.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ESportsGameClient.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -444,7 +534,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -490,7 +580,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -504,6 +594,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ESportsGameClient/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
@@ -519,6 +610,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ESportsGameClient/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
