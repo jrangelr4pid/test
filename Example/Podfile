@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'ESportsGameClient_Example' do
 #  pod 'ESportsGameClient', :path => '../'
-pod 'ESportsGameClient', :git => 'https://github.com/jrangelr4pid/test.git', :branch => 'master'
+  pod 'ESportsGameClient', :git => 'https://github.com/jrangelr4pid/test.git', :branch => 'master'
 
   target 'ESportsGameClient_Tests' do
     inherit! :search_paths

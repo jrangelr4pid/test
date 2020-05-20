@@ -28,6 +28,7 @@
 #import "EXUpdatesConfig.h"
 #import "EXUpdatesModule.h"
 #import "EXUpdatesUtils.h"
+#import "EXUpdatesBareUpdate.h"
 #import "EXUpdatesLegacyUpdate.h"
 #import "EXUpdatesNewUpdate.h"
 #import "EXUpdatesUpdate+Private.h"
