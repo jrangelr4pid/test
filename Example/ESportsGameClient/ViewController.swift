@@ -21,6 +21,7 @@ class ViewController: UIViewController {
    
     ESportsGameClient.Config.launchMode = .usingPartnerMemberToken(token: "testjust", publicToken: "13914810-df06-4adb-9838-f8e9668321e3")
     ESportsGameClient.Config.accountName = "Justine Rangel"
+    ESportsGameClient.Config.theme = .light
     ESportsGameClient.show(delegate: self)
   }
 

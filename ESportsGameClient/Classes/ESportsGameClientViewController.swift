@@ -49,7 +49,12 @@ public class ESportsGameClientViewController: UIViewController {
 // MARK: - RCTBridgeDelegate
 extension ESportsGameClientViewController: RCTBridgeDelegate {
   public func sourceURL(for bridge: RCTBridge!) -> URL! {
+    #if DEBUG
+    return RCTBundleURLProvider.sharedSettings()?.jsBundleURL(forBundleRoot: "index", fallbackResource: nil)
+    #else
     return Bundle(url: Bundle(for: Self.self).resourceURL!)?.url(forResource: "main", withExtension: "jsbundle")
+    #endif
+    
   }
   
   public func extraModules(for bridge: RCTBridge!) -> [RCTBridgeModule]! {
@@ -58,6 +63,4 @@ extension ESportsGameClientViewController: RCTBridgeDelegate {
     // https://facebook.github.io/react-native/docs/native-modules-ios.html#dependency-injection
     return extraModules
   }
-  
-  
 }

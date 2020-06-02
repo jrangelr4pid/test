@@ -36,11 +36,30 @@ public struct ESportsGameClient {
     case usingGameLaunchToken(token: String, publicToken: String)
   }
   
+  public enum HomeIcon {
+    case `default`
+    case back
+    /// custom icon url for home icon
+    case custom(url: String)
+  }
+  
+  public enum Theme {
+    case `default`
+    case dark
+    case light
+    /// custom json file; must follow proper format and included on your project to work
+    case customJSON(file: String)
+  }
+  
   public struct Config {
     /// This is required
     public static var launchMode: LaunchMode?
     /// Fill up this config to enable account management
     public static var accountName: String?
+    /// Set  default image
+    public static var homeIcon: HomeIcon?
+    /// Set  default theme
+    public static var theme: Theme?
     
     public static fileprivate(set) var initialProperties: [AnyHashable: Any]?
     public static fileprivate(set) var launchOptions: [AnyHashable: Any]?
@@ -109,7 +128,6 @@ public struct ESportsGameClient {
     }
   }
 }
-
 
 extension UIApplication {
   internal func topViewController(_ viewController: UIViewController? = UIApplication.shared.rootViewController()) -> UIViewController? {

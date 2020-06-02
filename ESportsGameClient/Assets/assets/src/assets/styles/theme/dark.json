@@ -1,0 +1,104 @@
+{
+  "themeName": "Dark",
+  "background": {
+    "color": {
+      "app": "#131517",
+      "main": "#1A2127",
+      "secondary": "#252D34",
+      "tertiary": "#293239"
+    }
+  },
+  "text": {
+    "color": {
+      "active": "#FC7D20",
+      "inactive": "#737E89",
+      "main": "#E5E8EB",
+      "secondary": "#979DA3",
+      "tertiary": "#EBEBEB"
+    }
+  },
+  "icon": {
+    "color": {
+      "active": "#FC7D20",
+      "inactive": "#333C48",
+      "main": "#E5E8EB"
+    }
+  },
+  "button": {
+    "color": {
+      "active": "#FC7D20",
+      "inactive": "#252D34",
+      "main": "#252D34",
+      "secondaryActive": "#FC7D20"
+    },
+    "textColor": {
+      "active": "#FFFFFF",
+      "inactive": "#131517",
+      "main": "#E5E8EB",
+      "secondaryActive": "#131517"
+    }
+  },
+  "odds": {
+    "backgroundColor": {
+      "active": "#F4761B",
+      "inactive": "#181F24",
+      "main": "#252D34"
+    },
+    "borderColor": {
+      "active": "#FFD19B",
+      "inactive": "#262C36",
+      "main": "#979DA3",
+      "oddsIncrease": "#33F86E",
+      "oddsDecrease": "#FF4545"
+    },
+    "textColor": {
+      "active": "#FFFFFF",
+      "main": "#EBEBEB",
+      "oddsIncrease": "#33F86E",
+      "oddsDecrease": "#FF4545"
+    },
+    "arrowColor": {
+      "oddsIncrease": "#33F86E",
+      "oddsDecrease": "#FF4545"
+    }
+  },
+  "eventStatus": {
+    "textColor": {
+      "awaitingResult": "#FF6641",
+      "awaitingSettlement": "#90B200",
+      "open":  "#41D7FF",
+      "pause": "#7599BC",
+      "settled":  "#F0B020"
+    }
+  },
+  "ticketStatus": {
+      "backgroundColor": {
+        "current": "#8BA1FF",
+        "cancelled": "#FD720B",
+        "draw": "#1998DB",
+        "loss": "#FA595A",
+        "refund": "#D33B8D",
+        "win": "#39CB64"
+      }
+  },
+  "oddTypeStatus": {
+    "backgroundColor": {
+      "euro": "#FAF68B",
+      "indo": "#71D9F2",
+      "hongkong": "#FA8F57",
+      "malay": "#6DF2B9"
+    }
+  },
+  "others": {
+      "background": {
+        "alertsErrors": "#FA595A",
+        "inplay": "#FA595A",
+        "popular": "#FF6641"
+      },
+      "textColor": {
+        "alertsErrors": "#FFFFFF",
+        "inplay": "#FFFFFF",
+        "popular": "#131517"
+      }
+  }
+}

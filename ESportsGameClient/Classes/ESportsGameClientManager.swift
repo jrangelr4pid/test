@@ -13,6 +13,8 @@ struct Keys {
   static let partnerTokenKey = "partnerToken"
   static let gameLaunchTokenKey = "gameLaunchToken"
   static let accountNameKey = "accountName"
+  static let homeIconKey = "homeIcon"
+  static let themeKey  = "theme"
   
   private init() {
   }
@@ -49,6 +51,37 @@ class ESportsGameClientManager: NSObject {
       case .usingGameLaunchToken(let token, let publicToken):
         constants[Keys.gameLaunchTokenKey] = token
         constants[Keys.publicTokenKey] = publicToken
+      }
+    }
+    if let homeIcon = ESportsGameClient.Config.homeIcon {
+      switch homeIcon {
+      case .default:
+        constants[Keys.homeIconKey] = "default"
+      case .back:
+        constants[Keys.homeIconKey] = "back"
+      case .custom(let image):
+        constants[Keys.homeIconKey] = image
+      }
+    }
+    if let theme = ESportsGameClient.Config.theme {
+      switch theme {
+      case .default:
+        constants[Keys.themeKey] = "default"
+      case .dark:
+        constants[Keys.themeKey] = "dark"
+      case .light:
+        constants[Keys.themeKey] = "light"
+      case .customJSON(let file):
+        if let url = Bundle.main.url(forResource: file, withExtension: "json") {
+          do {
+            let data = try Data(contentsOf: url, options: .mappedIfSafe)
+             constants[Keys.themeKey] = String(data: data, encoding: .utf8)
+          } catch {
+            print("Setting theme error: ", error.localizedDescription)
+          }
+        } else {
+          fatalError("File: \(file) is set but not found. please make sure \(file) is properly included in your project")
+        }
       }
     }
     constants[Keys.accountNameKey] = ESportsGameClient.Config.accountName
