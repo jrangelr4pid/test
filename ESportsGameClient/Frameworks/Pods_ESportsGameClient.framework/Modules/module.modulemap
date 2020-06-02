@@ -1,0 +1,6 @@
+framework module Pods_ESportsGameClient {
+  umbrella header "Pods-ESportsGameClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
