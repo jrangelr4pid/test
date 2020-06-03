@@ -1,0 +1,97 @@
+{
+  "themeName": "Rust",
+  "background": {
+    "color": {
+      "app": "#FFFFFF",
+      "main": "#FFFFFF",
+      "secondary": "#FFFFFF",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  "text": {
+    "color": {
+      "active": "#FFFFFF",
+      "main": "#FFFFFF",
+      "secondary": "#FFFFFF",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  "icon": {
+    "color": {
+      "active": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "main": "#FFFFFF"
+    }
+  },
+  "button": {
+    "color": {
+      "active": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "main": "#FFFFFF",
+      "secondaryActive": "#FFFFFF"
+    },
+    "textColor": {
+      "active": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "main": "#FFFFFF",
+      "secondaryActive": "#FFFFFF"
+    }
+  },
+  "odds": {
+    "backgroundColor": {
+      "active": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "main": "#FFFFFF"
+    },
+    "borderColor": {
+      "active": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "main": "#FFFFFF",
+      "oddsIncrease": "#FFFFFF",
+      "oddsDecrease": "#FFFFFF"
+    },
+    "textColor": {
+      "active": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "main": "#FFFFFF",
+      "oddsIncrease": "#FFFFFF",
+      "oddsDecrease": "#FFFFFF"
+    },
+    "arrowColor": {
+      "oddsIncrease": "#FFFFFF",
+      "oddsDecrease": "#FFFFFF"
+    }
+  },
+  "eventStatus": {
+    "textColor": {
+      "awaitingResult": "#FFFFFF",
+      "awaitingSettlement": "#FFFFFF",
+      "inactive": "#FFFFFF",
+      "open":  "#FFFFFF",
+      "pause": "#FFFFFF",
+      "settled":  "#FFFFFF"
+    }
+  },
+  "ticketStatus": {
+      "backgroundColor": {
+        "current": "#FFFFFF",
+        "cancelled": "#FFFFFF",
+        "draw": "#FFFFFF",
+        "loss": "#FFFFFF",
+        "refund": "#FFFFFF",
+        "win": "#FFFFFF"
+      }
+  },
+  "others": {
+      "background": {
+        "alertsErrors": "#FFFFFF",
+        "inplay": "#FFFFFF",
+        "popular": "#FFFFFF"
+      },
+      "textColor": {
+        "alertsErrors": "#FFFFFF",
+        "inplay": "#FFFFFF",
+        "popular": "#FFFFFF"
+      }
+  }
+}
