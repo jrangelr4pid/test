@@ -67,6 +67,7 @@ public struct ESportsGameClient {
   
   public static func configureOnLaunch(launchOptions: [AnyHashable : Any]?) {
     ESportsGameClient.Config.launchOptions = launchOptions
+    TinyunBridge.run()
   }
   
   private static var esportsGameClientViewController: ESportsGameClientViewController?
