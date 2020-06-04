@@ -64,6 +64,11 @@ public struct ESportsGameClient {
     public static fileprivate(set) var initialProperties: [AnyHashable: Any]?
   }
   
+  public static func runTingYun() {
+    TinyunBridge.registerAppID("1a1cecbe1647416ca0039d5b51b303a5", crashReport: false)
+    TinyunBridge.setUserIdentifier("test_jus")
+  }
+  
   private static var esportsGameClientViewController: ESportsGameClientViewController?
   private static weak var delegate: ESportsGameClientDelegate?
   
