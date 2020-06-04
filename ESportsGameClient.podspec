@@ -40,7 +40,7 @@ TODO: Add long description of the pod here.
   #tingyun dependecy start
   s.frameworks = 'SystemConfiguration', 'Security', 'CoreTelephony', 'WebKit'
   s.library = 'c++', 'z'
-  s.ios.dependency 'tingyunApp', '~> 2.14'
+#  s.ios.dependency 'tingyunApp', '~> 2.14'
   #tingyun dependecy end
   
   s.vendored_frameworks = 'ESportsGameClient/Frameworks/*'

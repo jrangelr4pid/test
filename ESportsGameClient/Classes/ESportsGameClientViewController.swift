@@ -49,8 +49,8 @@ public class ESportsGameClientViewController: UIViewController {
 // MARK: - RCTBridgeDelegate
 extension ESportsGameClientViewController: RCTBridgeDelegate {
   public func sourceURL(for bridge: RCTBridge!) -> URL! {
-    return RCTBundleURLProvider.sharedSettings()?.jsBundleURL(forBundleRoot: "index", fallbackResource: nil) //use for network
-//    return Bundle(url: Bundle(for: Self.self).resourceURL!)?.url(forResource: "main", withExtension: "jsbundle") //use for file
+//    return RCTBundleURLProvider.sharedSettings()?.jsBundleURL(forBundleRoot: "index", fallbackResource: nil) //use for network
+    return Bundle(url: Bundle(for: Self.self).resourceURL!)?.url(forResource: "main", withExtension: "jsbundle") //use for file
   }
   
   public func extraModules(for bridge: RCTBridge!) -> [RCTBridgeModule]! {

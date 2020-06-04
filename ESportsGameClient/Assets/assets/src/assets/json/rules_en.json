@@ -1,0 +1,730 @@
+{
+    "Esports General Rules": [
+        { 
+            "key": "1", 
+            "values": [
+                "Game Coverage"
+            ],
+            "sub_values": [
+                {
+                    "key": "a",
+                    "values": [
+                        "Currently Games Coverage are as following, League of Legend (LOL), King of Glory (KOG), DOTA2, Counter-Strike: Global Offensive (CSGO), Player Unknown Battle Underground (PUGB), Overwatch, Call of Duty (COD), Hearthstone, Heroes of the Storm, NBA2K18, Rainbow 6, Starcraft1, Starcraft2 and Warcraft3."
+                    ]
+                }
+            ] 
+        },
+        {
+            "key": "2",
+            "values": [
+                "These Games above are available for members to choose from in Combo, Early Market, In-play, Today Markets. "
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "The start dates and times displayed for Esports Game are an indication only and are not guaranteed to be accurate and correct. Wagers will be cancelled if offered at an incorrect date and time.",
+                "In the event, the match is suspended or postponed and not resumed within 24 hours from the initial/actual scheduled start time, the wager will be cancelled and refunded."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "If there is a player/team is given a walkover on at least one map before the match official starts, the wagers will be cancelled and void."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "If a match due for pending official results or without any official announcements, within 24 hours from the initial/actual scheduled start time of the match, the outstanding wagers will be cancelled and refunded."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "If a team receive a map advantage in accordance to the specific tournament format and rules, the team in receipt of the map, will be considered the map winner for settlement purpose."
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "Wagers will be cancelled and refunded if the event fixtures listed incorrectly, Esports Team or Team Member listed incorrectly."
+            ]
+        },
+        {
+            "key": "8",
+            "values": [
+                "In the event of one team/member deem unable to participate due to abstention or other reasons, wagers will be considered void and cancelled."
+            ]
+        },
+        {
+            "key": "9",
+            "values": [
+                "If a match or map is replayed due to a disconnection or non-player related technical problem, pre-match wagers will stand on the replayed match or map in accordance with the official result. All in-play bets on the affected match or map will be void unless the outcome is already determined, and the replayed match or map will be treated as a separate entity."
+            ]
+        },
+        {
+            "key": "10",
+            "values": [
+                "Match Odds will be update anytime, it is after the wager is being placed."
+            ]
+        },
+        {
+            "key": "11",
+            "values": [
+                "Match that are cancelled for Combo calculation will be considered as one (1)"
+            ]
+        },
+        {
+            "key": "12",
+            "values": [
+                "In the event of wrong odds, regardless it is due to human or system error, wagers received on the markets, Platform reserve the rights to void and refunded the wagers."
+            ]
+        },
+        {
+            "key": "13",
+            "values": [
+                "In the event the match start before the scheduled start time, resulting in markets not closed, wagers placed after the time will be considered void and refunded."
+            ]
+        },
+        {
+            "key": "14",
+            "values": [
+                "Late bets (past posting) - If for any reason wagers are accepted after the match has started, bets will be deemed as past post. If the live games are not closed before a specific/stated time, wagers placed after that time are considered as past post. Platform reserve the rights to consider the wagers void and cancelled."
+            ]
+        },
+        {
+            "key": "15",
+            "values": [
+                "Match Markets, Wagers will be void if the statutory number of maps are changed, or different from those offered for betting purpose. In the event of the match starting and not being completed, wagers will be void unless the outcome is already determined."
+            ]
+        },
+        {
+            "key": "16",
+            "values": [
+                "If there is a bug or short-term technical issue in a certain period of the game, the result of that particular period will be settled base on the official result."
+            ]
+        },
+        {
+            "key": "17",
+            "values": [
+                "Platform reserves the rights to suspend the markets/events at any time or cancel any wagers placed."
+            ]
+        },
+        {
+            "key": "18",
+            "values": [
+                "In the event of incorrect live video feed shown or unable to play live feed, wagers will not be affected and will settled in accordance with the official result."
+            ]
+        },
+        {
+            "key": "19",
+            "values": [
+                "Betting on the system vulnerability, or other suspected abnormal betting, Platform reserve the rights to consider the wagers void and cancelled."
+            ]
+        },
+        {
+            "key": "20",
+            "values": [
+                "Once the bet is placed and confirmed, it cannot be changed or changed, it is considered as valid bet. It is your responsibility to ensure your bets are corrected."
+            ]
+        },
+        {
+            "key": "21",
+            "values": [
+                "In the event of network connectivity issue while placing bet wager, it does not constitute a reason for cancellation of wager."
+            ]
+        },
+        {
+            "key": "22",
+            "values": [
+                "In the event of a system / technical error that resulted in a significantly wrong odds, all wagers will be considered void. If an error occurs during or on an In-play-event, Platform reserve the rights to consider the wagers void and cancelled"
+            ]
+        },
+        {
+            "key": "23",
+            "values": [
+                "In the event of an error or malfunction of our system or program, all wagers will be considered void. You are also obliged to notify us when errors occurred."
+            ]
+        },
+        {
+            "key": "24",
+            "values": [
+                "Platform reserves the rights to limit or adjust the bet limits of the events or markets, and to limit or adjust the bet limits of any members without providing any notice and explanation."
+            ]
+        },
+        {
+            "key": "25",
+            "values": [
+                "Platform hold the final authority of decision, reserves the rights of the final interpretation, and the rights to amend the rules and at any time."
+            ]
+        }
+    ],
+    "Esports Settlement": [
+        {
+            "key": "1",
+            "values": [
+                "For settlement purpose, Platform upon awarding and concluded the results, it is considered as official result, regardless whether there is a change in results or cancellation."
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "In the event, the results are not concluded, Platform reserve the rights to withhold the settlement process upon obtaining and verifying relevant resources, game API, official scoreboard or broadcast. If the results are not concluded within 24 hours from the initial/actual scheduled start time of the match, the outstanding tickets will be cancelled and refunded."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "In the event, markets results are not concluded timely and accurately, Platform reserve the rights to withhold the settlement process upon obtaining and verifying relevant resources, game API, official scoreboard or broadcast."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "In the event, markets results are incorrect or conflicting, Platform reserve the rights to withhold the settlement process and cancel the markets if necessary. Platform decision is considered official results and final."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "In the event, there is any conflicting results, Platform reserve the rights to amend or correct the results upon obtaining and verifying relevant resources, game API, official scoreboard or broadcast. Platform reserve the rights to considered the amended results as official results and final."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "Any conflicting results are to make known within 72 hours of the initial start time of the event. Platform reserve the rights to amend or correct the results within the stated 72 hours, the amended results are considered official results and final."
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "In the absence of consistent, independent evidence/sources or in the presence of significant conflicting evidence/sources, Platform reserve the rights to consider and based on the available official scoreboard, game API and broadcast to determine the results as official results and final."
+            ]
+        },
+        {
+            "key": "8",
+            "values": [
+                "If the lack of consistent and independent evidence, or evidence of significant conflicting information, Bets will be settled based on the data on this platform."
+            ]
+        }
+    ],
+    "General Game Rules": [
+        {
+            "key": "1",
+            "values": [
+                "Winner Markets: It is defined as the Winner of the Event/Map. It is settled based on official scoreboard, game API or broadcast. In the event of the number of maps being changed or differing from what is offered for betting purpose, these wagers are consider void and refunded."
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Handicap Markets: it is settled based on official scoreboard, game API or broadcast. It included number of maps, rounds, kill score and etc. In the event of the number of maps being changed or differing from what is offered for betting purpose, these wagers are consider void and refunded."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "In-Play Markets: It is based on 0-0 start state and concluded at the end of the event. Regardless the current score-line of the event/game when placing wager."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "League of Legend (LOL)",
+                "In LOL game, the settlement will be based on the results displayed in the post-match statistics panel (shown below) after the game. If there is no post-match statistics panel, we will settle based on the official website results, API or official live broadcast (demo). The post-match statistics panel may vary in layout and information display dependent on the different region.",
+                "img=url",
+                "For example: The post-match statistics panel after the game shown above: the total duration of the game is 29 minutes and 25 seconds, the total kills are 7 + 18 = 25, the total number of towers is 2 + 9 = 11, and the dragon ’s kill is 1: 4 The Baron is 0: 1, the Elder dragon kills 0: 0",
+                "Note: The post-match statistics panel layout and information display may vary due to different region after the match. If there is no post-match statistics panel after the end of any event, it will be settled based on official scoreboard, game API or broadcast"
+            ],
+            "sub_values": [
+                {
+                    "key": "A",
+                    "values": [
+                        "Total Kills Over/under (last Digit): It is based on the sum of the last digit kill score of both teams. For example, the score-line is 7:18, the sum of last digit kill score of each team is 7+8 = 15."
+                    ]
+                },
+                {
+                    "key": "B",
+                    "values": [
+                        "Total Time Market:  It will be settled based on official scoreboard, game API or broadcast. For example, if the total time stated is 32:00, wagers will be cancelled and refunded."
+                    ]
+                },
+                {
+                    "key": "C",
+                    "values": [
+                        "Total Dragon Slain: It will be settled based on official scoreboard, game API or broadcast. Elder Dragon is considered as a Dragon, it is considered into Total Dragons slayed."
+                    ]
+                },
+                {
+                    "key": "D",
+                    "values": [
+                        "To Kill First Baron: It will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "E",
+                    "values": [
+                        "First Blood Market: Only Kill by opposition team / player is considered."
+                    ]
+                },
+                {
+                    "key": "F",
+                    "values": [
+                        "Structure Market: For settlement purpose all building destroyed count is only considered when destroyed by the opposing team/ player. Nexus Turret is considered tower destroyed. Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "G",
+                    "values": [
+                        "Monster Market: Will be settled based on official scoreboard, game API or broadcast. Elder Dragon is considered as a Dragon, it is considered into Total Dragons slayed. In the event, there is no Elder Dragon slain, the wagers will be cancelled and refunded."
+                    ]
+                },
+                {
+                    "key": "H",
+                    "values": [
+                        "All time-based bets are settled based on in-game condition clock."
+                    ],
+                    "sub_values": [
+                        "img=url"
+                    ]
+                },
+                {
+                    "key": "I",
+                    "values": [
+                        "Dragon Attribute market: The attribute of the next element dragon will be displayed on the wall, as long as the attribute of next element dragon displayed it means that there's already a result."
+                    ]
+                },
+                {
+                    "key": "J",
+                    "values": [
+                        "2nd , 3rd ,  4th kill etc: Which team just won the N number of kills.Example: 3rd kill: It means which team gets the 3rd kill.Will be settled based on official scoreboard, game API or broadcast."
+                    ],
+                    "sub_values": [
+                        "img=url"
+                    ]
+                },
+                {
+                    "key": "K",
+                    "values": [
+                        "Total Heros are Alive After the Nexus Destroyed: Will be settled based on official scoreboard, game API or broadcast. For example as shown, it total hero alive 2:5."
+                    ]
+                },
+                {
+                    "key": "L",
+                    "values": [
+                        "Race to N kills market: Which team gets the first Race to N kills.Example: Race to 5 kills: It means which team gets the first Race to 5 kills.Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "M",
+                    "values": [
+                        "Total Time Over/Under ：Will be settled based on official scoreboard, game API or broadcast. Example : LOL Total Time Over/Under 33:00\nIf game end on 33:00, wagers will be void and cancelled"
+                    ]
+                },
+                {
+                    "key": "N",
+                    "values": [
+                        "Total Kills Over/Under (00:01-10:00 MINS) (10:01- 20:00 MINS) (STATED TIMING) ：Valid kills count will be based and consider within the stated time. If the game end before the stated time, wagers will be void and cancelled. Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "O",
+                    "values": [
+                        "Will Baron to be Steal: It will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "P",
+                    "values": [
+                        "Total Gold Difference: It will be settled based on official scoreboard, game API or broadcast. In the event, if the gold difference is 10 500, wagers will be cancelled and refunded."
+                    ]
+                },
+                {
+                    "key": "Q",
+                    "values": [
+                        "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "DOTA 2",
+                "In DOTA 2 game, Settlement will be based on the results (shown below) after the game. We will settle based on the official website results, API or official live broadcast (demo).",
+                "img=url"
+            ],
+            "sub_values": [
+                {
+                    "key": "A",
+                    "values": [
+                        "Total Kills Over/under (last Digit): It is based on the sum of the last digit kill score of both teams. For example, the score-line is 27:29, the sum of last digit kill score of each team is 7+9 = 16. Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "B",
+                    "values": [
+                        "First Blood Market: Only Kill by opposition team / player is considered."
+                    ]
+                },
+                {
+                    "key": "C",
+                    "values": [
+                        "Structure Market: For settlement purpose all building destroyed count is only considered when destroyed by the opposing team/ player. Will be settled based on official scoreboard, game API or broadcast. Regarding Defend Tower Deny, it will be based on the results of official. If it is displayed as a count, we will also calculate."
+                    ]
+                },
+                {
+                    "key": "D",
+                    "values": [
+                        "Monster Market (First to Kill Roshan): Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "E",
+                    "values": [
+                        "All time-based bets are settled based on in-game condition clock."
+                    ]
+                },
+                {
+                    "key": "F",
+                    "values": [
+                        "In the event, there is a surrender from one team/member, all markets will be settled on the outcome as declared by the relevant governing body of the specified competition, broadcast or Game API."
+                    ]
+                },
+                {
+                    "key": "G",
+                    "values": [
+                        "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "CSGO",
+                "img=url",
+                "An example of CSGO Game Log is as shown above. 1st Pistol Round is as Terrorist (T) Side. The total kill is 3+5 =8 (of the whole round). Will be settled based on official scoreboard, game API or broadcast."
+            ],
+            "sub_values": [
+                {
+                    "key": "A",
+                    "values": [
+                        "Where Overtime can be played, this is included in the settlement of markets, unless the Draw participant is quoted for a specific market, in which case settlement will be based on the statutory numbers of rounds."
+                    ]
+                },
+                {
+                    "key": "B",
+                    "values": [
+                        "Kill Markets: Will be settled based on official scoreboard, game API or broadcast. Bomb Killed and suicide is considered into the kill score line."
+                    ]
+                },
+                {
+                    "key": "C",
+                    "values": [
+                        "First Half Winner: Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "D",
+                    "values": [
+                        "2nd Half Winner: Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "E",
+                    "values": [
+                        "In the event Overtime is played, it is included in the settlement of markets."
+                    ]
+                },
+                {
+                    "key": "F",
+                    "values": [
+                        "Pistol Round Total Kills Over/Under: Will be settled based on official scoreboard, Game API and broadcast. Bomb Killed and suicide is considered into the Total kill."
+                    ]
+                },
+                {
+                    "key": "G",
+                    "values": [
+                        "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
+                    ]
+                },
+                {
+                    "key": "H",
+                    "values": [
+                        "1st Kill Market: Will be settled based on official scoreboard, game API or broadcast. It will be only be consider when the kill is made by the opposite team."
+                    ]
+                },
+                {
+                    "key": "I",
+                    "values": [
+                        "Total Headshots Market: Will be settled based on official scoreboard, game API or broadcast. Bomb Killed and suicide is considered into the headshot count."
+                    ]
+                },
+                {
+                    "key": "J",
+                    "values": [
+                        "1st Kill by Headshot Market: Will be settled based on official scoreboard, game API or broadcast. It will be only be consider when the kill is made by the opposite team.",
+                        "img=url"
+                    ]
+                },
+                {
+                    "key": "K",
+                    "values": [
+                        "Total Clutches Won Market: Will be settled based on official scoreboard as shown above. A clutch round is considered and count when the round goes down to 1 vs 1. A round must end with 9 kills for it to be considered."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "King of Glory (KOG)",
+                "In KOG game, the settlement will be based on the results displayed in the post-match statistics panel (shown below) after the game. If there is no post-match statistics panel, we will settle based on the official website results, API or official live broadcast (demo). The post-match statistics panel may vary in layout and information display dependent on the different region.",
+                "img=url",
+                "For example: The post-match statistics panel after the game shown above: the total kills are 7 :3, the total number of towers is 8 + 0 = 8",
+                "Note: The post-match statistics panel layout and information display may vary due to different region after the match. If there is no post-match statistics panel after the end of any event, it will be settled based on official scoreboard, game API or broadcast"
+            ],
+            "sub_values": [
+                {
+                    "key": "A",
+                    "values": [
+                        "First Blood Market: Only Kill by opposition team / player is considered."
+                    ]
+                },
+                {
+                    "key": "B",
+                    "values": [
+                        "Total Kill Market: Will be settled based on official scoreboard, game API or broadcast. For example, as shown above, 7 :3."
+                    ]
+                },
+                {
+                    "key": "C",
+                    "values": [
+                        "Structure Market: For settlement purpose all building destroyed count is only considered when destroyed by the opposing team/ player. Will be settled based on official scoreboard, game API or broadcast. Regarding Defend Tower Deny, it will be based on the results of official. If it is displayed as a count, we will also calculate."
+                    ]
+                },
+                {
+                    "key": "D",
+                    "values": [
+                        "Tyrant Market: Will be settled based on official scoreboard, game API or broadcast."
+                    ]
+                },
+                {
+                    "key": "E",
+                    "values": [
+                        "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
+                    ]
+                },
+                {
+                    "key": "F",
+                    "values": [
+                        "All time-based bets are settled based on in-game condition clock."
+                    ]
+                }
+            ]
+        }
+    ],
+    "Basketball General Rules": [
+        {
+            "key": "1",
+            "values": [
+                "If the scheduled venue is changed, all bets will be considered void."
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "If a game is abandoned during the 1st half, all 1st half bets are considered void. If a game is abandoned during the 2nd half, all 2nd half bets are considered void, unless otherwise stated in the individual bet type rules. All 1st half bets will still be valid."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "For Quarter / Half Betting, the period must be completed for bets to be valid, unless explicitly stated below or in the individual Bet Type rules."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "NCAA Venue Rule: Please note, that the \"Home\" and \"Away\" venue indicated on the website is for reference only. Bets will stand regardless of change of venue, be it to the \"Home\" team's venue, the \"Away\" team's venue or to a \"Neutral\" venue."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "If the game starts before the scheduled time, only bets placed before the game commenced will be considered valid. Bets placed after the game commenced will be considered void. This excludes In-Play bet types."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "Overtime is included for any Game or 2nd Half betting, unless otherwise stated. 4th Quarter betting does not include overtime."
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "For 3 x 3 Basketball, settlement will be based on official competition rules, especially for Street ball and Big 3 match versions of the sport."
+            ]
+        }
+    ],
+    "Outright": [
+        {
+            "key": "1",
+            "values": [
+                "Predict a championships, league, or competition winner in a designated outright.The selected teams or players get the final victory deemed to comply with the payout conditions, including:"
+            ],
+            "sub_values": [
+                {
+                    "key": "a",
+                    "values": [
+                        "The final result of the league, for example: World Cup championship Winner"
+                    ]
+                },
+                {
+                    "key": "b",
+                    "values": [
+                        "Win in the preliminaries, for example: World Cup championship Group stage"
+                    ]
+                },
+                {
+                    "key": "c",
+                    "values": [
+                        "The highest score."
+                    ]
+                },
+                {
+                    "key": "d",
+                    "values": [
+                        "The best players, etc."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "General rules"
+            ],
+            "sub_values": [
+                {
+                    "key": "a",
+                    "values": [
+                        "All outright bets are based on the final result of the match."
+                    ]
+                },
+                {
+                    "key": "b",
+                    "values": [
+                        "If betting on the player or team that participated in this competition or league, all bets placed on this player or team will be considered void, even if they are disqualified, retired or not completed the competition, for any reason."
+                    ]
+                },
+                {
+                    "key": "c",
+                    "values": [
+                        "The Winner is a player or team that wins according to the final judgment."
+                    ]
+                },
+                {
+                    "key": "d",
+                    "values": [
+                        "Participants who use \"Other Players\" or \"Other Teams\" instead of names will be considered unnamed."
+                    ]
+                },
+                {
+                    "key": "e",
+                    "values": [
+                        "If the final day of the competition is postponed or the competition is cancelled, it will not be counted and will not affect the calculation of the match. Delayed or cancelled events are not counted, if the market is not closed due to human error or technical failure, we have the right to cancel the bet that was wrongly bet."
+                    ]
+                }
+            ]
+        }
+    ],
+    "Anchor (Streamer)": [
+        {
+            "key": "1",
+            "values": [
+                "The game number includes all games played by the streamer that day, irrespective of the game mode played (i.e. single or duo/squad-player)"
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Data recorded for each streamer is based on their registered in-game name, not their streamer ID."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "Recorded kills will only include those singularly achieved by the streamer. It will not include kills recorded as part of duo or squad games."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "For duo or squad games, the final match standing will be determined by team performance."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "Structure Market: For settlement purpose all building destroyed count is only considered streamer destroy, not include Neutral creeps and creeps."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "For League of Legend Games, in the event the streamer ended the game through voting to give up or declare \"GG\", the game will be considered voided regardless of the game time. The Game is considered completed upon the opposite team destroy of Nexus. The settlement process will be based on obtaining and verifying relevant resources, game API, official scoreboard or broadcast."
+            ]
+        }
+    ],
+    "Parlay/Accumulator": [
+        { 
+            "key": "1",
+            "values": [
+                "A parlay bet is defined as individual bets which link two or more selections in a single bet. Each selection chosen in the parlay must win for the parlay wager to be successful. If the first selection is a winning bet, the winnings and the stake are carried over on to the second selection. This continues until all selections are winning bets or one selection is a losing bet. If one or more legs of the accumulator are either a push cancellation, or no action, the accumulator would be recalculated, and reduced based on the remaining legs that action."
+            ]
+        },
+        { 
+            "key": "2",
+            "values": [
+                "Key Points for Parlay/Accumulator"
+            ],
+            "sub_values": [
+                {
+                    "key": "a",
+                    "values": [
+                        "You may select up to 25 legs in a parlay."
+                    ]
+                },
+                {
+                    "key": "b",
+                    "values": [
+                        "The maximum accumulated winnings for a parlay betting within 24hours (based on actual settlement time) is 200,000RMB (not including the stake amount)."
+                    ]
+                },
+                {
+                    "key": "c",
+                    "values": [
+                        "All selections are subject to the relevant esports market rules."
+                    ]
+                },
+                {
+                    "key": "d",
+                    "values": [
+                        "Parley bets, which combine selections that are related in the same event or where the outcome of the market could affect the outcome of another market, are not accepted."
+                    ]
+                },
+                {
+                    "key": "e",
+                    "values": [
+                        "TFGaming reserved the right to restrict parlays on any events as it deems appropriate."
+                    ]
+                }
+            ]
+        }
+    ]
+}
