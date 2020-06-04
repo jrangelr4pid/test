@@ -11,7 +11,8 @@
 
 @interface RCT_EXTERN_MODULE(ESportsGameClientManager, NSObject)
 
-RCT_EXTERN_METHOD(addEvent:(NSString *)name location:(NSString *)location date:(nonnull NSNumber *)date)
+RCT_EXTERN_METHOD(registerAppID:(NSString*)appID crashReport:(BOOL)crashReport)
+RCT_EXTERN_METHOD(setUserIdentifier:(NSString*)identifier)
 RCT_EXTERN_METHOD(dismiss)
 RCT_EXTERN_METHOD(accountTapped)
 

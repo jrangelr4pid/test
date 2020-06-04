@@ -38,7 +38,7 @@ public class ESportsGameClientViewController: UIViewController {
   
   @discardableResult
   private func initializeReactNativeApp() -> RCTBridge? {
-    guard let bridge = RCTBridge(delegate: self, launchOptions: ESportsGameClient.Config.launchOptions) else { return nil }
+    guard let bridge = RCTBridge(delegate: self, launchOptions: nil) else { return nil }
     let rootView = RCTRootView(bridge: bridge, moduleName: "main", initialProperties: ESportsGameClient.Config.initialProperties)
     rootView.frame = view.frame
     view.addSubview(rootView)
@@ -49,7 +49,8 @@ public class ESportsGameClientViewController: UIViewController {
 // MARK: - RCTBridgeDelegate
 extension ESportsGameClientViewController: RCTBridgeDelegate {
   public func sourceURL(for bridge: RCTBridge!) -> URL! {
-    return Bundle(url: Bundle(for: Self.self).resourceURL!)?.url(forResource: "main", withExtension: "jsbundle")
+    return RCTBundleURLProvider.sharedSettings()?.jsBundleURL(forBundleRoot: "index", fallbackResource: nil) //use for network
+//    return Bundle(url: Bundle(for: Self.self).resourceURL!)?.url(forResource: "main", withExtension: "jsbundle") //use for file
   }
   
   public func extraModules(for bridge: RCTBridge!) -> [RCTBridgeModule]! {

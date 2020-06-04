@@ -62,12 +62,6 @@ public struct ESportsGameClient {
     public static var theme: Theme?
     
     public static fileprivate(set) var initialProperties: [AnyHashable: Any]?
-    public static fileprivate(set) var launchOptions: [AnyHashable: Any]?
-  }
-  
-  public static func configureOnLaunch(launchOptions: [AnyHashable : Any]?) {
-    ESportsGameClient.Config.launchOptions = launchOptions
-    TinyunBridge.run()
   }
   
   private static var esportsGameClientViewController: ESportsGameClientViewController?

@@ -22,12 +22,34 @@ struct Keys {
 
 @objc(ESportsGameClientManager)
 class ESportsGameClientManager: NSObject {
-  @objc(addEvent:location:date:)
-  func addEvent(name: String, location: String, date: NSNumber) {
-    print(#function)
-    print("name ", name)
-    print("location ", location)
-    print("date ", date)
+  @objc(registerAppID:crashReport:)
+  func registerAppID(appID: String, crashReport: Bool) {
+    TinyunBridge.registerAppID(appID, crashReport: crashReport)
+  }
+  
+  @objc(setUserIdentifier:)
+  func setUserIdentifier(identifier: String) {
+    TinyunBridge.setUserIdentifier(identifier)
+  }
+  
+  @objc(leaveBreadCrumb:)
+  func leaveBreadCrumb(breadCrumb: String) {
+    TinyunBridge.leaveBreadCrumb(breadCrumb)
+  }
+  
+  @objc(tractEvent:)
+  func tractEvent(event: String) {
+    TinyunBridge.trackEvent(event)
+  }
+  
+  @objc(beginTracer:)
+  func beginTracer(trace: String) {
+    TinyunBridge.beginTracer(trace)
+  }
+  
+  @objc(endTracer:)
+  func endTracer(trace: String) {
+    TinyunBridge.endTracer(trace)
   }
   
   @objc
