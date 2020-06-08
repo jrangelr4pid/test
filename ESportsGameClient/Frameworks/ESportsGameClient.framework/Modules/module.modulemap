@@ -1,0 +1,6 @@
+framework module ESportsGameClient {
+  umbrella header "ESportsGameClient.h"
+
+  export *
+  module * { export * }
+}

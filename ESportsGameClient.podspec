@@ -30,18 +30,12 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'ESportsGameClient/Classes/**/*'
-  s.resources = 'ESportsGameClient/Assets/*'
+  # s.source_files = 'ESportsGameClient/Classes/**/*'
+  # s.resources = 'ESportsGameClient/Assets/*'
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-  
-  #tingyun dependecy start
-  s.frameworks = 'SystemConfiguration', 'Security', 'CoreTelephony', 'WebKit'
-  s.library = 'c++', 'z'
-#  s.ios.dependency 'tingyunApp', '~> 2.14'
-  #tingyun dependecy end
   
   s.vendored_frameworks = 'ESportsGameClient/Frameworks/*'
 end

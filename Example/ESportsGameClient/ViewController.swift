@@ -18,12 +18,11 @@ class ViewController: UIViewController {
   
   override func viewDidAppear(_ animated: Bool) {
     super.viewDidAppear(animated)
-   
-    ESportsGameClient.Config.launchMode = .usingPartnerMemberToken(token: "testjust", publicToken: "13914810-df06-4adb-9838-f8e9668321e3")
-    ESportsGameClient.Config.accountName = "Justine Rangel"
-    ESportsGameClient.Config.theme = .default
-//    ESportsGameClient.Config.theme = .customJSON(file: "test")
-    ESportsGameClient.show(delegate: self)
+    ESportsGameClient.sharedInstance()?.launchMode = LaunchMode.usingPartnerMemberToken("testjust", publicToken: "13914810-df06-4adb-9838-f8e9668321e3")
+    ESportsGameClient.sharedInstance()?.homeIcon = HomeIcon.back()
+    ESportsGameClient.sharedInstance()?.theme = Theme.dark()
+    ESportsGameClient.sharedInstance()?.accountName = "Justine"
+    ESportsGameClient.show(self)
   }
 
     override func didReceiveMemoryWarning() {
@@ -33,29 +32,14 @@ class ViewController: UIViewController {
 
 }
 
-
 extension ViewController: ESportsGameClientDelegate {
-  func esportsGameClientWillShow(_ controller: ESportsGameClientViewController) {
-    print(#function)
-  }
-  
-  func esportsGameClientDidShow(_ controller: ESportsGameClientViewController) {
-    print(#function)
-  }
-  
-  func esportsGameClientWillDismiss(_ controller: ESportsGameClientViewController) {
-    print(#function)
-  }
-  
-  func esportsGameClientDidDismiss(_ controller: ESportsGameClientViewController) {
-    print(#function)
-  }
-  
-  func esportsGameClientAccountTapped(_ controller: ESportsGameClientViewController) {
-    print(#function)
-  }
-  
-  func esportsGameClientPresentationController() -> UIViewController {
+  func esportsGameClientPresentationController() -> UIViewController! {
     return self
+  }
+  
+  func esportsGameClientAccountDidTapped() {
+    let alertViewController = UIAlertController(title: "Account", message: nil, preferredStyle: .alert)
+    alertViewController.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
+    present(alertViewController, animated: true, completion: nil)
   }
 }
