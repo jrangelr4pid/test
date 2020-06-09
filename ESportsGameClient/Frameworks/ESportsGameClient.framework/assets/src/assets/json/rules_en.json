@@ -7,7 +7,7 @@
             ],
             "sub_values": [
                 {
-                    "key": "a",
+                    "key": "a.",
                     "values": [
                         "Currently Games Coverage are as following, League of Legend (LOL), King of Glory (KOG), DOTA2, Counter-Strike: Global Offensive (CSGO), Player Unknown Battle Underground (PUGB), Overwatch, Call of Duty (COD), Hearthstone, Heroes of the Storm, NBA2K18, Rainbow 6, Starcraft1, Starcraft2 and Warcraft3."
                     ]
@@ -240,49 +240,49 @@
             ],
             "sub_values": [
                 {
-                    "key": "A",
+                    "key": "A.",
                     "values": [
                         "Total Kills Over/under (last Digit): It is based on the sum of the last digit kill score of both teams. For example, the score-line is 7:18, the sum of last digit kill score of each team is 7+8 = 15."
                     ]
                 },
                 {
-                    "key": "B",
+                    "key": "B.",
                     "values": [
                         "Total Time Market:  It will be settled based on official scoreboard, game API or broadcast. For example, if the total time stated is 32:00, wagers will be cancelled and refunded."
                     ]
                 },
                 {
-                    "key": "C",
+                    "key": "C.",
                     "values": [
                         "Total Dragon Slain: It will be settled based on official scoreboard, game API or broadcast. Elder Dragon is considered as a Dragon, it is considered into Total Dragons slayed."
                     ]
                 },
                 {
-                    "key": "D",
+                    "key": "D.",
                     "values": [
                         "To Kill First Baron: It will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "E",
+                    "key": "E.",
                     "values": [
                         "First Blood Market: Only Kill by opposition team / player is considered."
                     ]
                 },
                 {
-                    "key": "F",
+                    "key": "F.",
                     "values": [
                         "Structure Market: For settlement purpose all building destroyed count is only considered when destroyed by the opposing team/ player. Nexus Turret is considered tower destroyed. Will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "G",
+                    "key": "G.",
                     "values": [
                         "Monster Market: Will be settled based on official scoreboard, game API or broadcast. Elder Dragon is considered as a Dragon, it is considered into Total Dragons slayed. In the event, there is no Elder Dragon slain, the wagers will be cancelled and refunded."
                     ]
                 },
                 {
-                    "key": "H",
+                    "key": "H.",
                     "values": [
                         "All time-based bets are settled based on in-game condition clock."
                     ],
@@ -358,43 +358,43 @@
             ],
             "sub_values": [
                 {
-                    "key": "A",
+                    "key": "A.",
                     "values": [
                         "Total Kills Over/under (last Digit): It is based on the sum of the last digit kill score of both teams. For example, the score-line is 27:29, the sum of last digit kill score of each team is 7+9 = 16. Will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "B",
+                    "key": "B.",
                     "values": [
                         "First Blood Market: Only Kill by opposition team / player is considered."
                     ]
                 },
                 {
-                    "key": "C",
+                    "key": "C.",
                     "values": [
                         "Structure Market: For settlement purpose all building destroyed count is only considered when destroyed by the opposing team/ player. Will be settled based on official scoreboard, game API or broadcast. Regarding Defend Tower Deny, it will be based on the results of official. If it is displayed as a count, we will also calculate."
                     ]
                 },
                 {
-                    "key": "D",
+                    "key": "D.",
                     "values": [
                         "Monster Market (First to Kill Roshan): Will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "E",
+                    "key": "E.",
                     "values": [
                         "All time-based bets are settled based on in-game condition clock."
                     ]
                 },
                 {
-                    "key": "F",
+                    "key": "F.",
                     "values": [
                         "In the event, there is a surrender from one team/member, all markets will be settled on the outcome as declared by the relevant governing body of the specified competition, broadcast or Game API."
                     ]
                 },
                 {
-                    "key": "G",
+                    "key": "G.",
                     "values": [
                         "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
                     ]
@@ -410,68 +410,68 @@
             ],
             "sub_values": [
                 {
-                    "key": "A",
+                    "key": "A.",
                     "values": [
                         "Where Overtime can be played, this is included in the settlement of markets, unless the Draw participant is quoted for a specific market, in which case settlement will be based on the statutory numbers of rounds."
                     ]
                 },
                 {
-                    "key": "B",
+                    "key": "B.",
                     "values": [
                         "Kill Markets: Will be settled based on official scoreboard, game API or broadcast. Bomb Killed and suicide is considered into the kill score line."
                     ]
                 },
                 {
-                    "key": "C",
+                    "key": "C.",
                     "values": [
                         "First Half Winner: Will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "D",
+                    "key": "D.",
                     "values": [
                         "2nd Half Winner: Will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "E",
+                    "key": "E.",
                     "values": [
                         "In the event Overtime is played, it is included in the settlement of markets."
                     ]
                 },
                 {
-                    "key": "F",
+                    "key": "F.",
                     "values": [
                         "Pistol Round Total Kills Over/Under: Will be settled based on official scoreboard, Game API and broadcast. Bomb Killed and suicide is considered into the Total kill."
                     ]
                 },
                 {
-                    "key": "G",
+                    "key": "G.",
                     "values": [
                         "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
                     ]
                 },
                 {
-                    "key": "H",
+                    "key": "H.",
                     "values": [
                         "1st Kill Market: Will be settled based on official scoreboard, game API or broadcast. It will be only be consider when the kill is made by the opposite team."
                     ]
                 },
                 {
-                    "key": "I",
+                    "key": "I.",
                     "values": [
                         "Total Headshots Market: Will be settled based on official scoreboard, game API or broadcast. Bomb Killed and suicide is considered into the headshot count."
                     ]
                 },
                 {
-                    "key": "J",
+                    "key": "J.",
                     "values": [
                         "1st Kill by Headshot Market: Will be settled based on official scoreboard, game API or broadcast. It will be only be consider when the kill is made by the opposite team.",
                         "img=url"
                     ]
                 },
                 {
-                    "key": "K",
+                    "key": "K.",
                     "values": [
                         "Total Clutches Won Market: Will be settled based on official scoreboard as shown above. A clutch round is considered and count when the round goes down to 1 vs 1. A round must end with 9 kills for it to be considered."
                     ]
@@ -489,39 +489,45 @@
             ],
             "sub_values": [
                 {
-                    "key": "A",
+                    "key": "A.",
                     "values": [
                         "First Blood Market: Only Kill by opposition team / player is considered."
                     ]
                 },
                 {
-                    "key": "B",
+                    "key": "B.",
                     "values": [
                         "Total Kill Market: Will be settled based on official scoreboard, game API or broadcast. For example, as shown above, 7 :3."
                     ]
                 },
                 {
-                    "key": "C",
+                    "key": "C.",
                     "values": [
                         "Structure Market: For settlement purpose all building destroyed count is only considered when destroyed by the opposing team/ player. Will be settled based on official scoreboard, game API or broadcast. Regarding Defend Tower Deny, it will be based on the results of official. If it is displayed as a count, we will also calculate."
                     ]
                 },
                 {
-                    "key": "D",
+                    "key": "D.",
                     "values": [
                         "Tyrant Market: Will be settled based on official scoreboard, game API or broadcast."
                     ]
                 },
                 {
-                    "key": "E",
+                    "key": "E.",
                     "values": [
                         "Odd/Even Market: In the event if the valid result is 0, it is considered as Even."
                     ]
                 },
                 {
-                    "key": "F",
+                    "key": "F.",
                     "values": [
                         "All time-based bets are settled based on in-game condition clock."
+                    ]
+                },
+                {
+                    "key": "G.",
+                    "values": [
+                        "In the event if any sides choose the following character: Athena (Warrior). Because the hero attack damage has an unfair game advantage, the company regards the map markets as invalid and void, such as KILLS HANDICAP,TEAM MOST KILLS,TOTAL KILLS OVER/UNDER, TEAM TO DRAW FIRST BLOOD, RACE TO 5 KILLS, RACE TO 10 KILLS"
                     ]
                 }
             ]
@@ -579,25 +585,25 @@
             ],
             "sub_values": [
                 {
-                    "key": "a",
+                    "key": "a.",
                     "values": [
                         "The final result of the league, for example: World Cup championship Winner"
                     ]
                 },
                 {
-                    "key": "b",
+                    "key": "b.",
                     "values": [
                         "Win in the preliminaries, for example: World Cup championship Group stage"
                     ]
                 },
                 {
-                    "key": "c",
+                    "key": "c.",
                     "values": [
                         "The highest score."
                     ]
                 },
                 {
-                    "key": "d",
+                    "key": "d.",
                     "values": [
                         "The best players, etc."
                     ]
@@ -611,31 +617,31 @@
             ],
             "sub_values": [
                 {
-                    "key": "a",
+                    "key": "a.",
                     "values": [
                         "All outright bets are based on the final result of the match."
                     ]
                 },
                 {
-                    "key": "b",
+                    "key": "b.",
                     "values": [
                         "If betting on the player or team that participated in this competition or league, all bets placed on this player or team will be considered void, even if they are disqualified, retired or not completed the competition, for any reason."
                     ]
                 },
                 {
-                    "key": "c",
+                    "key": "c.",
                     "values": [
                         "The Winner is a player or team that wins according to the final judgment."
                     ]
                 },
                 {
-                    "key": "d",
+                    "key": "d.",
                     "values": [
                         "Participants who use \"Other Players\" or \"Other Teams\" instead of names will be considered unnamed."
                     ]
                 },
                 {
-                    "key": "e",
+                    "key": "e.",
                     "values": [
                         "If the final day of the competition is postponed or the competition is cancelled, it will not be counted and will not affect the calculation of the match. Delayed or cancelled events are not counted, if the market is not closed due to human error or technical failure, we have the right to cancel the bet that was wrongly bet."
                     ]
@@ -695,31 +701,31 @@
             ],
             "sub_values": [
                 {
-                    "key": "a",
+                    "key": "a.",
                     "values": [
                         "You may select up to 25 legs in a parlay."
                     ]
                 },
                 {
-                    "key": "b",
+                    "key": "b.",
                     "values": [
                         "The maximum accumulated winnings for a parlay betting within 24hours (based on actual settlement time) is 200,000RMB (not including the stake amount)."
                     ]
                 },
                 {
-                    "key": "c",
+                    "key": "c.",
                     "values": [
                         "All selections are subject to the relevant esports market rules."
                     ]
                 },
                 {
-                    "key": "d",
+                    "key": "d.",
                     "values": [
                         "Parley bets, which combine selections that are related in the same event or where the outcome of the market could affect the outcome of another market, are not accepted."
                     ]
                 },
                 {
-                    "key": "e",
+                    "key": "e.",
                     "values": [
                         "TFGaming reserved the right to restrict parlays on any events as it deems appropriate."
                     ]

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/BVLinearGradient.framework/BVLinearGradient</key>
 		<data>
-		NNjzgDvaTurHQ52DOteC3Qmnd0w=
+		PrIzbWYGlLOpmUo1DvGBByZfcvE=
 		</data>
 		<key>Frameworks/BVLinearGradient.framework/Headers/BVLinearGradient-umbrella.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Frameworks/CoreModules.framework/CoreModules</key>
 		<data>
-		w/TOj1yizeSIfoLGlDORKAmR/as=
+		puJfoLgTyKW3/GBOaBT8LipoOq0=
 		</data>
 		<key>Frameworks/CoreModules.framework/Headers/React-CoreModules-umbrella.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Frameworks/DoubleConversion.framework/DoubleConversion</key>
 		<data>
-		doFDqof6qhCqN3PsTVyWuIW8jBU=
+		3ycAHlD2FoznYc951/HelEJuv6s=
 		</data>
 		<key>Frameworks/DoubleConversion.framework/Headers/DoubleConversion-umbrella.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Frameworks/EXConstants.framework/EXConstants</key>
 		<data>
-		R0hISSqwxcFbFif4UJw04bxjMXk=
+		WZRxubbo5uMTdhji3Nh1I8j/XgQ=
 		</data>
 		<key>Frameworks/EXConstants.framework/Headers/EXConstants-umbrella.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/EXErrorRecovery.framework/EXErrorRecovery</key>
 		<data>
-		jRXRraEIcaZsmIYzimfgAcKj16c=
+		uLExfgqgQ9ZjajW7eE+LsvsezZA=
 		</data>
 		<key>Frameworks/EXErrorRecovery.framework/Headers/EXErrorRecovery-umbrella.h</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Frameworks/EXFileSystem.framework/EXFileSystem</key>
 		<data>
-		xR/OjIBqGeGzRMBdpu+SBqfdTbo=
+		4R+6k7qubohG62PviZyIbrGN6HE=
 		</data>
 		<key>Frameworks/EXFileSystem.framework/Headers/EXDownloadDelegate.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Frameworks/EXFont.framework/EXFont</key>
 		<data>
-		dmU+6DpwfrbMcsy6b4Y7Y3EyXD0=
+		fLaP92ogtu99PC4rczKZTKk1yww=
 		</data>
 		<key>Frameworks/EXFont.framework/Headers/EXFont-umbrella.h</key>
 		<data>
@@ -226,7 +226,7 @@
 		</data>
 		<key>Frameworks/EXImageLoader.framework/EXImageLoader</key>
 		<data>
-		nFqYp/7mE2LanxGmTBRFAaUf8Mk=
+		XyySjGlvuDMcJnvSwUM1ZcEzg2I=
 		</data>
 		<key>Frameworks/EXImageLoader.framework/Headers/EXImageLoader-umbrella.h</key>
 		<data>
@@ -246,7 +246,7 @@
 		</data>
 		<key>Frameworks/EXKeepAwake.framework/EXKeepAwake</key>
 		<data>
-		o1hgetEO7z15xXQSFj0mF20qJF0=
+		whwtVYpUSdMsCbpFkMMWZAeePBY=
 		</data>
 		<key>Frameworks/EXKeepAwake.framework/Headers/EXKeepAwake-umbrella.h</key>
 		<data>
@@ -266,7 +266,7 @@
 		</data>
 		<key>Frameworks/EXLinearGradient.framework/EXLinearGradient</key>
 		<data>
-		h516XHj5rAEgUnVOC9gp9SSFnZg=
+		UhFZe6OAxxPW7DzhfYNVBSZ77ng=
 		</data>
 		<key>Frameworks/EXLinearGradient.framework/Headers/EXLinearGradient-umbrella.h</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Frameworks/EXLocation.framework/EXLocation</key>
 		<data>
-		hYk1oow2PPVmbbbT1GJyrMERCbk=
+		RFP0bFTVt8yiJkxM42FvSa+2M2E=
 		</data>
 		<key>Frameworks/EXLocation.framework/Headers/EXGeofencingTaskConsumer.h</key>
 		<data>
@@ -330,7 +330,7 @@
 		</data>
 		<key>Frameworks/EXPermissions.framework/EXPermissions</key>
 		<data>
-		LUIV7RV/7kIZqF6PmoX6An3zZEY=
+		PGumZP6HETU3o4zwyEuFt6bbNKo=
 		</data>
 		<key>Frameworks/EXPermissions.framework/Headers/EXPermissions-umbrella.h</key>
 		<data>
@@ -362,7 +362,7 @@
 		</data>
 		<key>Frameworks/EXSQLite.framework/EXSQLite</key>
 		<data>
-		Z3Z4PDfF0LgeOf5KA5e6U/glv78=
+		ZNHWUNSgGRiIOquD9IF45pK0zDQ=
 		</data>
 		<key>Frameworks/EXSQLite.framework/Headers/EXSQLite-umbrella.h</key>
 		<data>
@@ -382,7 +382,7 @@
 		</data>
 		<key>Frameworks/EXSplashScreen.framework/EXSplashScreen</key>
 		<data>
-		LtWzdne3IuQAZVIgy5jE1ZZqoQg=
+		+crrD3tQYSXpRfuOI5pTs50mGqo=
 		</data>
 		<key>Frameworks/EXSplashScreen.framework/Headers/EXSplashScreen-umbrella.h</key>
 		<data>
@@ -418,7 +418,7 @@
 		</data>
 		<key>Frameworks/EXUpdates.framework/EXUpdates</key>
 		<data>
-		643FzLKLyqp/ZmrFkEMre165YoY=
+		4/SdRgtKiiXwRnypSAQ7vTfeCrg=
 		</data>
 		<key>Frameworks/EXUpdates.framework/Headers/EXUpdates-umbrella.h</key>
 		<data>
@@ -526,7 +526,7 @@
 		</data>
 		<key>Frameworks/EXWebBrowser.framework/EXWebBrowser</key>
 		<data>
-		fzZ0Kh/O0xZnUbZXlzSRtC52uX0=
+		evLD6oEk9UPB5eRqkKJEewRj7PI=
 		</data>
 		<key>Frameworks/EXWebBrowser.framework/Headers/EXWebBrowser-umbrella.h</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>Frameworks/FBReactNativeSpec.framework/FBReactNativeSpec</key>
 		<data>
-		wUvrWXYw8sHm8ZmqKhqy+p+QREU=
+		Gf6uF4aeXEfWfVto0K2nai6cGqM=
 		</data>
 		<key>Frameworks/FBReactNativeSpec.framework/Headers/FBReactNativeSpec-umbrella.h</key>
 		<data>
@@ -578,7 +578,7 @@
 		</data>
 		<key>Frameworks/RCTActionSheet.framework/RCTActionSheet</key>
 		<data>
-		Hmq0LM9k6kexKsO3ZgQ4IuMFai0=
+		dPSSVrt3OpzAVr83mWo0sRe9UGQ=
 		</data>
 		<key>Frameworks/RCTAnimation.framework/Headers/React-RCTAnimation-umbrella.h</key>
 		<data>
@@ -594,7 +594,7 @@
 		</data>
 		<key>Frameworks/RCTAnimation.framework/RCTAnimation</key>
 		<data>
-		G4qpfXeqEln4myRyTN6UGqIuTyA=
+		3yvOlR/JKpKJxMLG6LYzu94a9Po=
 		</data>
 		<key>Frameworks/RCTBlob.framework/Headers/RCTBlobCollector.h</key>
 		<data>
@@ -614,7 +614,7 @@
 		</data>
 		<key>Frameworks/RCTBlob.framework/RCTBlob</key>
 		<data>
-		JuH/TG1jynRmzqHyJl//rluTTMo=
+		SFjvgusiu9T5SIuzZ31hslJGQVI=
 		</data>
 		<key>Frameworks/RCTImage.framework/Headers/React-RCTImage-umbrella.h</key>
 		<data>
@@ -630,7 +630,7 @@
 		</data>
 		<key>Frameworks/RCTImage.framework/RCTImage</key>
 		<data>
-		ryxLgwcYA1gkJb/ox/tbcfMvFQg=
+		0YkJwEGqEbCZF7rJdxCucaYYFZU=
 		</data>
 		<key>Frameworks/RCTLinking.framework/Headers/React-RCTLinking-umbrella.h</key>
 		<data>
@@ -646,7 +646,7 @@
 		</data>
 		<key>Frameworks/RCTLinking.framework/RCTLinking</key>
 		<data>
-		eiIFGkshYzxXTHvkvIR8jlqgcSM=
+		gNnWhMvzdw/RiuK7bgw/Ien9a4o=
 		</data>
 		<key>Frameworks/RCTNetwork.framework/Headers/React-RCTNetwork-umbrella.h</key>
 		<data>
@@ -662,7 +662,7 @@
 		</data>
 		<key>Frameworks/RCTNetwork.framework/RCTNetwork</key>
 		<data>
-		hhM0RGe9CfIao2aoH1CmVUP1DgM=
+		lF3dAjgRQPJoU7+wap1nTIUJPIo=
 		</data>
 		<key>Frameworks/RCTSettings.framework/Headers/React-RCTSettings-umbrella.h</key>
 		<data>
@@ -678,7 +678,7 @@
 		</data>
 		<key>Frameworks/RCTSettings.framework/RCTSettings</key>
 		<data>
-		Osn9tEjNLeznV4LVhjyM2vWxjHo=
+		yflkWP18d10IXOUq3M6jRylms/0=
 		</data>
 		<key>Frameworks/RCTText.framework/Headers/NSTextStorage+FontScaling.h</key>
 		<data>
@@ -814,7 +814,7 @@
 		</data>
 		<key>Frameworks/RCTText.framework/RCTText</key>
 		<data>
-		xh42UK0eM2uGSje8CAOdldYo3Gw=
+		PPd372LmWvwF847KlzekXd2DaJc=
 		</data>
 		<key>Frameworks/RCTTypeSafety.framework/Headers/RCTConvertHelpers.h</key>
 		<data>
@@ -838,7 +838,7 @@
 		</data>
 		<key>Frameworks/RCTTypeSafety.framework/RCTTypeSafety</key>
 		<data>
-		BnuHGtHFQbRjUL2oBWhOd+52now=
+		Z5694qe5VQ3Z6Z4uF6kPhDAOCdU=
 		</data>
 		<key>Frameworks/RCTVibration.framework/Headers/React-RCTVibration-umbrella.h</key>
 		<data>
@@ -854,7 +854,7 @@
 		</data>
 		<key>Frameworks/RCTVibration.framework/RCTVibration</key>
 		<data>
-		rqltgLsakYDmpHLUhdQdwqEInMc=
+		qtyvPFBaGeLltM5WD/ixYfYjM0U=
 		</data>
 		<key>Frameworks/RNCMaskedView.framework/Headers/RNCMaskedView-umbrella.h</key>
 		<data>
@@ -878,7 +878,7 @@
 		</data>
 		<key>Frameworks/RNCMaskedView.framework/RNCMaskedView</key>
 		<data>
-		5XO3rVwIV3ZmbLcW9QlLarqErag=
+		t7iN0yLE32OSZI21g5BAK3akti4=
 		</data>
 		<key>Frameworks/RNGestureHandler.framework/Headers/RNFlingHandler.h</key>
 		<data>
@@ -962,7 +962,7 @@
 		</data>
 		<key>Frameworks/RNGestureHandler.framework/RNGestureHandler</key>
 		<data>
-		DoHvBvETYvIWQqnKFfrBh8i73+Y=
+		7oO/2fT7Kitpy0C+XhguZRi8PhA=
 		</data>
 		<key>Frameworks/RNReanimated.framework/Headers/RCTConvert+REATransition.h</key>
 		<data>
@@ -1090,7 +1090,7 @@
 		</data>
 		<key>Frameworks/RNReanimated.framework/RNReanimated</key>
 		<data>
-		D/DuAsqcBz0dZKRwLhT7mSoTfuM=
+		Q30nn3HBUuE7z7dCmQ1HVgjAYTE=
 		</data>
 		<key>Frameworks/RNSVG.framework/Headers/RCTConvert+RNSVG.h</key>
 		<data>
@@ -1378,7 +1378,7 @@
 		</data>
 		<key>Frameworks/RNSVG.framework/RNSVG</key>
 		<data>
-		XO3i1uCTfytUeGql2+LqBEsXBvY=
+		/lRKsGl3tpVXUyfek18UvgwqUz4=
 		</data>
 		<key>Frameworks/RNScreens.framework/Headers/RNSScreen.h</key>
 		<data>
@@ -1410,7 +1410,7 @@
 		</data>
 		<key>Frameworks/RNScreens.framework/RNScreens</key>
 		<data>
-		F+RTUCWnaBYRQVnT5JX8bl5jY6M=
+		1NJs2ChJ4PyifNzxp54PtAndU7Q=
 		</data>
 		<key>Frameworks/React.framework/Headers/CoreModulesPlugins.h</key>
 		<data>
@@ -2374,7 +2374,7 @@
 		</data>
 		<key>Frameworks/React.framework/React</key>
 		<data>
-		fG4WY1xFs7MdPc3zj2hLdIIeLDQ=
+		wanxgHEVVhMGnjUFXEYHDLveGr0=
 		</data>
 		<key>Frameworks/ReactCommon.framework/Headers/BridgeJSCallInvoker.h</key>
 		<data>
@@ -2426,7 +2426,7 @@
 		</data>
 		<key>Frameworks/ReactCommon.framework/ReactCommon</key>
 		<data>
-		Z7yGqsCYWw1SdWzJuCbbdCLZVpY=
+		eP7HKVCczZpZif3Gr5l5FpLJbQ4=
 		</data>
 		<key>Frameworks/UMAppLoader.framework/Headers/UMAppLoader-umbrella.h</key>
 		<data>
@@ -2454,7 +2454,7 @@
 		</data>
 		<key>Frameworks/UMAppLoader.framework/UMAppLoader</key>
 		<data>
-		K/HCP8kpBlkwmXZb9v1Y9CgMu64=
+		cOYXfiF/NI/F+J5vC/lJsg/rvOM=
 		</data>
 		<key>Frameworks/UMCore.framework/Headers/UMAppDelegateWrapper.h</key>
 		<data>
@@ -2558,7 +2558,7 @@
 		</data>
 		<key>Frameworks/UMCore.framework/UMCore</key>
 		<data>
-		46XLUvmJ1DR5yxKFODMJ4JFAm+w=
+		4v/6qsDwkvKyGysyHtdJH1hz4QY=
 		</data>
 		<key>Frameworks/UMPermissionsInterface.framework/Headers/UMPermissionsInterface-umbrella.h</key>
 		<data>
@@ -2586,7 +2586,7 @@
 		</data>
 		<key>Frameworks/UMPermissionsInterface.framework/UMPermissionsInterface</key>
 		<data>
-		RENdjln1FfgNAoMZh9+UB375ktA=
+		WEYNAISQZgBQUpK+C1GlWE8Sal0=
 		</data>
 		<key>Frameworks/UMReactNativeAdapter.framework/Headers/UMBridgeModule.h</key>
 		<data>
@@ -2642,7 +2642,7 @@
 		</data>
 		<key>Frameworks/UMReactNativeAdapter.framework/UMReactNativeAdapter</key>
 		<data>
-		8qD/i9AROsmMOZPWIephXH3HcIo=
+		kf3PK7sMa12KSP3AVUT2umK9m70=
 		</data>
 		<key>Frameworks/cxxreact.framework/Headers/CxxModule.h</key>
 		<data>
@@ -2742,7 +2742,7 @@
 		</data>
 		<key>Frameworks/cxxreact.framework/cxxreact</key>
 		<data>
-		2uMxTFbY3yNII0M7fndLb97wJHo=
+		Sslv3NNQgihXCXKp/pgnEp8fh/E=
 		</data>
 		<key>Frameworks/folly.framework/Headers/Folly-umbrella.h</key>
 		<data>
@@ -2758,7 +2758,7 @@
 		</data>
 		<key>Frameworks/folly.framework/folly</key>
 		<data>
-		wtIt5vvvDt3vTl53qyEFIgyogtk=
+		dv9zkLSvlrYrJcOQC07JSj+eyIE=
 		</data>
 		<key>Frameworks/glog.framework/Headers/glog-umbrella.h</key>
 		<data>
@@ -2794,7 +2794,7 @@
 		</data>
 		<key>Frameworks/glog.framework/glog</key>
 		<data>
-		jYo3EyPYXN8KzvQs5We4pmHXzuY=
+		m7ldlv3XPx+KBSMsj+Cj+6U0jvc=
 		</data>
 		<key>Frameworks/jsi.framework/Headers/JSCRuntime.h</key>
 		<data>
@@ -2842,7 +2842,7 @@
 		</data>
 		<key>Frameworks/jsi.framework/jsi</key>
 		<data>
-		+F9ss+xXNMrDsBtstYZNsLkPF78=
+		DtiOfx1ixH0WSX6tfwgTAzB8DlU=
 		</data>
 		<key>Frameworks/jsinspector.framework/Headers/InspectorInterfaces.h</key>
 		<data>
@@ -2862,7 +2862,7 @@
 		</data>
 		<key>Frameworks/jsinspector.framework/jsinspector</key>
 		<data>
-		McGu2SkZIfkanBhaA+9E8nioO/8=
+		NvuNdAdw5l90WLL+jCtDwsnZdCU=
 		</data>
 		<key>Frameworks/jsireact.framework/Headers/JSIExecutor.h</key>
 		<data>
@@ -2886,7 +2886,7 @@
 		</data>
 		<key>Frameworks/jsireact.framework/jsireact</key>
 		<data>
-		VnOqg3DBxz6l3oAZ+tQAmAXYyiw=
+		Y8v2mCynfeUjC8ffSSwVKgWkR+E=
 		</data>
 		<key>Frameworks/react_native_config.framework/Headers/ReactNativeConfig.h</key>
 		<data>
@@ -2906,7 +2906,7 @@
 		</data>
 		<key>Frameworks/react_native_config.framework/react_native_config</key>
 		<data>
-		AuUyC782vaDl7bEMwNBWJFQwZRM=
+		f+z3V+O3bymonh0LD4RWSnzn1/Q=
 		</data>
 		<key>Frameworks/react_native_safe_area_context.framework/Headers/RNCSafeAreaView.h</key>
 		<data>
@@ -2930,7 +2930,7 @@
 		</data>
 		<key>Frameworks/react_native_safe_area_context.framework/react_native_safe_area_context</key>
 		<data>
-		r/qiX8rNQt4mxjRBkOny09xR9Rw=
+		JsifkBP8vXs6vhRHLc2xBLXumdI=
 		</data>
 		<key>Frameworks/react_native_webview.framework/Headers/RNCWKProcessPoolManager.h</key>
 		<data>
@@ -2958,7 +2958,7 @@
 		</data>
 		<key>Frameworks/react_native_webview.framework/react_native_webview</key>
 		<data>
-		gvlsdp2x74Rb0erzOs4ie2pMTt8=
+		iP7+8wn2XmvxrBHBrgTOLWNRjhw=
 		</data>
 		<key>Frameworks/yoga.framework/Headers/YGEnums.h</key>
 		<data>
@@ -2990,7 +2990,7 @@
 		</data>
 		<key>Frameworks/yoga.framework/yoga</key>
 		<data>
-		hyIUB2Zi/aH+B1bnvTPkEeVv8RY=
+		7s55oIl9s020ZPT3Qs7+HRul0yg=
 		</data>
 		<key>Headers/ESportsGameClient.h</key>
 		<data>
@@ -3006,7 +3006,7 @@
 		</data>
 		<key>app.manifest</key>
 		<data>
-		qxgVgApbLDKhMMs6wJUIdlkpARQ=
+		43npQmvtweR9KKbGqF7NWbjcoFc=
 		</data>
 		<key>assets/assets/fonts/Oxanium-Bold.ttf</key>
 		<data>
@@ -3306,7 +3306,31 @@
 		</data>
 		<key>assets/src/assets/json/rules_en.json</key>
 		<data>
-		4CUE7bnucjA32KzLlZd7l/OKu5w=
+		Y7rryXYMDE/TJ5C9JzPCKYO8qZE=
+		</data>
+		<key>assets/src/assets/json/rules_esp.json</key>
+		<data>
+		9bdiVymytB48yMUT5DWoaw9XYUo=
+		</data>
+		<key>assets/src/assets/json/rules_jp.json</key>
+		<data>
+		JC2TOnze7D8Q6s71pQ3AVuBu3OQ=
+		</data>
+		<key>assets/src/assets/json/rules_kr.json</key>
+		<data>
+		pjpklVFtKa2aIG5DXAz2+9/v42g=
+		</data>
+		<key>assets/src/assets/json/rules_thai.json</key>
+		<data>
+		C2/zdQdPsex9v2srobpwK1ew+T8=
+		</data>
+		<key>assets/src/assets/json/rules_viet.json</key>
+		<data>
+		mwXK3I/vFmvUCBkl9rAzVadAyW0=
+		</data>
+		<key>assets/src/assets/json/rules_zh.json</key>
+		<data>
+		337OyApK1xaqS6H6WVwjDlBerHw=
 		</data>
 		<key>assets/src/assets/styles/theme/dark.json</key>
 		<data>
@@ -3330,7 +3354,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		O1k6UFJqKN5Yp8ltf44nTONE8OQ=
+		mim7m2rBu4k2wyvQsWlfwaR0frQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -3339,7 +3363,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yj3EGCXvXUPBUuV2rLx/K7PyuO1zDVNYtiQmnY7CpJg=
+			l5nCCsqDs5XQE9fcaf52y4ammdn2iOCXyTevlov+oGQ=
 			</data>
 		</dict>
 		<key>Frameworks/BVLinearGradient.framework/Headers/BVLinearGradient-umbrella.h</key>
@@ -3388,7 +3412,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UeUvKqABomb1fYhdd3wbqlBey8EM+Tslxnnlhdc/QOg=
+			LoL+oQVAtVOifEGFHoHp8XhsDTgolRv7QqHwzQdy2ZY=
 			</data>
 		</dict>
 		<key>Frameworks/CoreModules.framework/Headers/React-CoreModules-umbrella.h</key>
@@ -3416,7 +3440,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xg1A+QXhLBo1R8LTCvtivma121R//GXCJqoicVjbaGA=
+			rOlP4/1qz4ChDEZEtjupJnIFc1jriNpXEp7Qf0OxheQ=
 			</data>
 		</dict>
 		<key>Frameworks/DoubleConversion.framework/Headers/DoubleConversion-umbrella.h</key>
@@ -3514,7 +3538,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xFGJ6mccEv877UJJytRYwIfxBLmVTIPm6nH0Kv1+PaI=
+			XpeE2M5uSreixbIhgDOh99BVV2C7oWrIFeJ8g7Bzr1E=
 			</data>
 		</dict>
 		<key>Frameworks/EXConstants.framework/Headers/EXConstants-umbrella.h</key>
@@ -3556,7 +3580,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xv28yPY+wylnyHu2HFL60uuEy/GRINUvE4nFxGckGBs=
+			Ld+4bsfe3ZhmeVY9ZRhB9WdVP9D2uMKo0NGCmQLbjaw=
 			</data>
 		</dict>
 		<key>Frameworks/EXErrorRecovery.framework/Headers/EXErrorRecovery-umbrella.h</key>
@@ -3591,7 +3615,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rw0ZoM8IpX54EYfg18e8HVyjcKw2AQV8G7f8h1K5hYg=
+			lUBHEl5SBt/ynJzBosdlvsM8aVCRfXewKsOxrZxzWwY=
 			</data>
 		</dict>
 		<key>Frameworks/EXFileSystem.framework/Headers/EXDownloadDelegate.h</key>
@@ -3654,7 +3678,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F9z/IHN0RnqkeXU4Jku6DC+GfRIWFY8TfGwEASX5H3M=
+			5LW8bujEYcDvr8/96rpyoOf+O0WTkgk+QU0cCTrCn/o=
 			</data>
 		</dict>
 		<key>Frameworks/EXFont.framework/Headers/EXFont-umbrella.h</key>
@@ -3724,7 +3748,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZN643O+0cW6Rq8wmYezCyLI5KDGP1ZEZG7wARqbR8AE=
+			VEqeweTKjjDtXzTze4LQK73RUWIJTZaYttSxbLEttmY=
 			</data>
 		</dict>
 		<key>Frameworks/EXImageLoader.framework/Headers/EXImageLoader-umbrella.h</key>
@@ -3759,7 +3783,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GjmS2RL3QJNBQWSqKUBIzJpEh+D0FA4xktXV5LI+B1M=
+			KckB+kDmV1GY+5fGu+aPGjGQJVO79PVQqrFCULSXMEI=
 			</data>
 		</dict>
 		<key>Frameworks/EXKeepAwake.framework/Headers/EXKeepAwake-umbrella.h</key>
@@ -3794,7 +3818,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DgbyE+gmnPEfNZtpOLuOSx7mjLWI9jrpnobUk3Jr1MM=
+			NPUPM6AElMQfwZiBUkv1iRXyCAIEyBNovRGxAhdoaTQ=
 			</data>
 		</dict>
 		<key>Frameworks/EXLinearGradient.framework/Headers/EXLinearGradient-umbrella.h</key>
@@ -3843,7 +3867,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			08kTs4uy2XUp5bMqjBzT3sTECSkMifyPIiMMOWJ4uuw=
+			MEyVcqQh6hv5DBCXBkUQUJJ3OnydcSEq0RyU6EFQ8DA=
 			</data>
 		</dict>
 		<key>Frameworks/EXLocation.framework/Headers/EXGeofencingTaskConsumer.h</key>
@@ -3906,7 +3930,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SBADh/vZZXn4VQEc9tAW5eNLQzB/WvwEorFDJOv5m5Q=
+			wKKAN432DsQ6ZTgEk/RAQnrod5+2c6LUWWvICAfDnUc=
 			</data>
 		</dict>
 		<key>Frameworks/EXPermissions.framework/Headers/EXPermissions-umbrella.h</key>
@@ -3962,7 +3986,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7XzUCbJ5mIJDLeIHoc4ysZfuBL5b5nya2mu2nlaJrbs=
+			uk2Nu9cCMFVGeB6ynzuE4+p1crPmF8a27dmDqbMHfU4=
 			</data>
 		</dict>
 		<key>Frameworks/EXSQLite.framework/Headers/EXSQLite-umbrella.h</key>
@@ -3997,7 +4021,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B9rY2VtiQ7mzol1Rowh1dOMSbOZJY4SHZUagIfOZkaQ=
+			loSqKQAzSo7UXX73hJXLvq1AaRhDTb43+q6gHXJlfs4=
 			</data>
 		</dict>
 		<key>Frameworks/EXSplashScreen.framework/Headers/EXSplashScreen-umbrella.h</key>
@@ -4060,7 +4084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GgOkx13BycI2mYOv33rxl1RAG8XkMLe+VaMYiqj3ro0=
+			9Qb7dz1UXY8LUFWqtyssR/o6g9KLkDmXpZ6fof4ytrA=
 			</data>
 		</dict>
 		<key>Frameworks/EXUpdates.framework/Headers/EXUpdates-umbrella.h</key>
@@ -4249,7 +4273,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/0GT2B85nbAgDoIvbIPw7tSS20Mwvbqdv6kGrOL2yc=
+			20Eitz7/p7wRyddU6F/Ixv5GqUrc77L/PddZ4H464VI=
 			</data>
 		</dict>
 		<key>Frameworks/EXWebBrowser.framework/Headers/EXWebBrowser-umbrella.h</key>
@@ -4284,7 +4308,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eGWRFcVsqJuf/aSmI0O+YPGmZMCU2bV0KoiZ8DcvkSc=
+			dmbTS/oIDfvpiDKurLU2JIbLnEhMtb6B+nROdR6Ttrw=
 			</data>
 		</dict>
 		<key>Frameworks/FBReactNativeSpec.framework/Headers/FBReactNativeSpec-umbrella.h</key>
@@ -4340,7 +4364,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfJ/W8ceJS/o3aiCFt07EA9kIrtGdvm3exIJmwmDW70=
+			4kV2iOHu465B2nPNMPoHEf8CoRoSJjh3MHLPbSP1Jpw=
 			</data>
 		</dict>
 		<key>Frameworks/RCTAnimation.framework/Headers/React-RCTAnimation-umbrella.h</key>
@@ -4368,7 +4392,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dLhlQIaDog07u9e63g/eZTsHQoi2pHVG9bgN3JDWIpA=
+			zkZc326ibex5YUjfM3ypz0V0uUu2FVmOdJt16/bx6y4=
 			</data>
 		</dict>
 		<key>Frameworks/RCTBlob.framework/Headers/RCTBlobCollector.h</key>
@@ -4403,7 +4427,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AeFK5xITQPpBbB+H+RwQnqwSD9Tn+7y3O8LcPossZVE=
+			ZtJFDaKPgKmKfv6401SJIo0U+ZltFceecgqITgO4kqM=
 			</data>
 		</dict>
 		<key>Frameworks/RCTImage.framework/Headers/React-RCTImage-umbrella.h</key>
@@ -4431,7 +4455,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6nljQANLXoIX1YfJlwuDKFRHYvLUQPEUFm+ADUb/Su4=
+			Gb+M9dS6zTnB5K8qU7EKyqDjeEmfgUAljZ8dEic+k5c=
 			</data>
 		</dict>
 		<key>Frameworks/RCTLinking.framework/Headers/React-RCTLinking-umbrella.h</key>
@@ -4459,7 +4483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZHIoM7vONCGyhe3SLWDA8fjTNYNbRsDlRoHPBmcrSg=
+			X1dqI7gfDr1QgG2n9Jr/WaoYOwnGdPTTXKo9TSeKWAI=
 			</data>
 		</dict>
 		<key>Frameworks/RCTNetwork.framework/Headers/React-RCTNetwork-umbrella.h</key>
@@ -4487,7 +4511,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kwNlzavYQYVS8BUKqhWdwPdXoOnbyZ/jPxTCcx+WdTQ=
+			lD170zShNRG9/LBIHD/KbwUT/qBKWef2hxNKG2qeskw=
 			</data>
 		</dict>
 		<key>Frameworks/RCTSettings.framework/Headers/React-RCTSettings-umbrella.h</key>
@@ -4515,7 +4539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E4FScv3XL52MByQgbmyq4ZEpmCIF04mSsA2GMUoza8w=
+			DdozgzRUnHBvs9+NacE4JXUZ3COajabjLF/IYP6h6+4=
 			</data>
 		</dict>
 		<key>Frameworks/RCTText.framework/Headers/NSTextStorage+FontScaling.h</key>
@@ -4753,7 +4777,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q/nEV8VbRCbg/0s8FZ1HvZz0sMfyBQMOAsWhOONJ8hI=
+			qe+Cffm0XfGJVveuQhsBACd6trwFBoX54UzxFwHk+E8=
 			</data>
 		</dict>
 		<key>Frameworks/RCTTypeSafety.framework/Headers/RCTConvertHelpers.h</key>
@@ -4795,7 +4819,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZfOKPzp/2+cw2Nm3psaO0iYgWdxqli9vzCpvXPGV1M8=
+			SGgBv7eF47uzEEI6cLJK0K/JUSXi1DaBs49crO69ArA=
 			</data>
 		</dict>
 		<key>Frameworks/RCTVibration.framework/Headers/React-RCTVibration-umbrella.h</key>
@@ -4823,7 +4847,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3gLbpTI5kw3TW+06c2lExv+A07WHhdUUJsCWZGuKZkQ=
+			IqJBLBKFixRTd9sqijRbWg2YGSFShnSMaDHTnLfbNuY=
 			</data>
 		</dict>
 		<key>Frameworks/RNCMaskedView.framework/Headers/RNCMaskedView-umbrella.h</key>
@@ -4865,7 +4889,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lvsae4o5qxdwXcxiJEUYUvumandgWmcqtjKPoXsH724=
+			pBP0pXaFSMc7eGTJj9DiUz4HHN2/BD0pDu47vfIkL7g=
 			</data>
 		</dict>
 		<key>Frameworks/RNGestureHandler.framework/Headers/RNFlingHandler.h</key>
@@ -5012,7 +5036,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ALI3bYyTPK9gddIEylG2iyU2ve8J+4Ipdx5hV595wRc=
+			vuSqbyqEerXAtKlozTN96DmtZd6Dljb6iqC6NaTxYJU=
 			</data>
 		</dict>
 		<key>Frameworks/RNReanimated.framework/Headers/RCTConvert+REATransition.h</key>
@@ -5236,7 +5260,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVvjJmOtEv0s31ImLJPcFKW3HgpW/vaw8WpP/6ZVf04=
+			Yv/rkfxxu6CpWCVcw6bFyrPwgCmy8FdQ8NQgYwO05lc=
 			</data>
 		</dict>
 		<key>Frameworks/RNSVG.framework/Headers/RCTConvert+RNSVG.h</key>
@@ -5740,7 +5764,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qipgk06U3lUTgGrWc7YYEKa3UdVA07Or5EewJRrv8eU=
+			BKTsR6lndgyR6nwo7hm+s1+d95brIkEEhAm2BDvHKSI=
 			</data>
 		</dict>
 		<key>Frameworks/RNScreens.framework/Headers/RNSScreen.h</key>
@@ -5796,7 +5820,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r/+wBcbYzjSyEPJdXjLjcV4q7A/tYNG6pO3S6V7wsA0=
+			8jlIZQA1Hm9gGYU17CTIJ5H8APHpVI8u2iY51npp4W8=
 			</data>
 		</dict>
 		<key>Frameworks/React.framework/Headers/CoreModulesPlugins.h</key>
@@ -7483,7 +7507,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wkh+FION9TAbQM3WP1fsn6axKjNtnfy4N0YngOtDj4M=
+			klnle0mzFCtMUw8jew/tTKnKt4cCzLMwIfcO2PFTyso=
 			</data>
 		</dict>
 		<key>Frameworks/ReactCommon.framework/Headers/BridgeJSCallInvoker.h</key>
@@ -7574,7 +7598,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJoGuRU31CQfGFkS6M1k4ditgC9+f0IYPbKoDXZZRhE=
+			9K5b4PfZphZ0mXbej9GdEJmybeUP4KhAZ0N+eB2aKOA=
 			</data>
 		</dict>
 		<key>Frameworks/UMAppLoader.framework/Headers/UMAppLoader-umbrella.h</key>
@@ -7623,7 +7647,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m9jnEjMhi+CLtDYiVZSnBpSOXWRBpLJbRpp7GOmkEus=
+			GVmzfB7N8OFPvpwDBWBqXdjZmVRa1ws/BPfoMBNQqH4=
 			</data>
 		</dict>
 		<key>Frameworks/UMCore.framework/Headers/UMAppDelegateWrapper.h</key>
@@ -7805,7 +7829,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGgMWl/PbTLBdEEe7QlhCSD5K09WfIsSeoXW4eqhZCg=
+			aIpNwIh0KfnNAhoPx0fxOW28BRnRUlg+GaUiZs+ceqo=
 			</data>
 		</dict>
 		<key>Frameworks/UMPermissionsInterface.framework/Headers/UMPermissionsInterface-umbrella.h</key>
@@ -7854,7 +7878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wv68Io8h781mrMxwUic850uGBPxVQbzlusEKNK6D9JA=
+			Fw9+xe2Mdzctr3t6y8x4UAc9Wpe0qmscxtErsLf4fVk=
 			</data>
 		</dict>
 		<key>Frameworks/UMReactNativeAdapter.framework/Headers/UMBridgeModule.h</key>
@@ -7952,7 +7976,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wlpLsECm25J9kZzi6KkJk+S/RokhX0gQV09THuWq8mE=
+			gU7WmcW31H3KsG+SZJ3kHib1+TXyRg1jYO8x6yWw7Aw=
 			</data>
 		</dict>
 		<key>Frameworks/cxxreact.framework/Headers/CxxModule.h</key>
@@ -8127,7 +8151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oU5V3Jj176vUGgxQmrv2icafjhSteUuGoGi5MPzvOsc=
+			MJpbW3AP/gV8sOviKL8ZklOvpioCyaRsDTuHH1AMGk8=
 			</data>
 		</dict>
 		<key>Frameworks/folly.framework/Headers/Folly-umbrella.h</key>
@@ -8155,7 +8179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4AuGSTR+AE6YGe3lzH4uolhF2HZFkqdrDkPqjIINVYU=
+			hzqsbrCW9q/g7IW+YX7aXpzmocsLZLXIGKEf6dB0QgY=
 			</data>
 		</dict>
 		<key>Frameworks/glog.framework/Headers/glog-umbrella.h</key>
@@ -8218,7 +8242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			av2HLcaHcBMG7dfiqqo20lYA3YZcPxEsTEO/LBOzRR0=
+			Y+prqCT1K0mlDXw7bzJTCFr+pXcHbCmQDHSW4bD89Q0=
 			</data>
 		</dict>
 		<key>Frameworks/jsi.framework/Headers/JSCRuntime.h</key>
@@ -8302,7 +8326,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TL2V6dPBOXBPeSrxY8ScIfyPNBjhfTrRLm83kpEP4z8=
+			mESUgz5vkHpFmMmg6e7r6i5PmF0knrdF6OIxR79YYhI=
 			</data>
 		</dict>
 		<key>Frameworks/jsinspector.framework/Headers/InspectorInterfaces.h</key>
@@ -8337,7 +8361,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			656I4DUMm2pEbsOPJU+J3GaKMO/kDG+VR7ygdZtSM+Y=
+			IP9Fx9x6Z3xAFU9qRw8mraNM+vU5mG0cjiIZLfKw/qU=
 			</data>
 		</dict>
 		<key>Frameworks/jsireact.framework/Headers/JSIExecutor.h</key>
@@ -8379,7 +8403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hFBsJ+hqaTIVYz+ylSlIJlL29jXgW+1d1ch2hMnePw0=
+			wHrlvF4HMJBqjxnZ8i00Nu6pzgyzGv0Xb9q5KbsUZMo=
 			</data>
 		</dict>
 		<key>Frameworks/react_native_config.framework/Headers/ReactNativeConfig.h</key>
@@ -8414,7 +8438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+WhLkZZrPlHsaETvBrKAjv/cmILJRo83Gt5LBfYj0Q=
+			2l1zOgY3SI0rGN4jJwUu+RgC0aXR8KZOILqXSTABsGc=
 			</data>
 		</dict>
 		<key>Frameworks/react_native_safe_area_context.framework/Headers/RNCSafeAreaView.h</key>
@@ -8456,7 +8480,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wz1R3p40MSSAYAM7GSzAUWlJksIoMs5vH7AhVZSPtdQ=
+			HQnSRc506bVMsvDnW0bVyllqHEsJv8lyiq0QXErps+Q=
 			</data>
 		</dict>
 		<key>Frameworks/react_native_webview.framework/Headers/RNCWKProcessPoolManager.h</key>
@@ -8505,7 +8529,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SnU3xY2Nk10Fha+r4IaQvuKIvxL8BTbDu3ycPovZQtM=
+			C+ywJPbojykqls67GJEXZX+ACeFUQZDwG94ABinDQ3w=
 			</data>
 		</dict>
 		<key>Frameworks/yoga.framework/Headers/YGEnums.h</key>
@@ -8561,7 +8585,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J9vca+X5tb0Rfr/zseKPVy3irps1iUPtw/CVkUCdfZY=
+			8VHrdjJVvnu/G4KfZ1uNoU+ymsniZPcQ+aZZXBfg2+M=
 			</data>
 		</dict>
 		<key>Headers/ESportsGameClient.h</key>
@@ -8582,7 +8606,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NrBc/AK2a69qzkYv9DOrbxHAFRmjIe0I6Q9SdJOY+XQ=
+			iJLuO8UhqhbuOYLaBX9tByXMKS/83AObmRiB9uWyXuk=
 			</data>
 		</dict>
 		<key>assets/assets/fonts/Oxanium-Bold.ttf</key>
@@ -9107,7 +9131,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AXR6uej08ngPyq4sLry+aTpRuGMxhJyhczMI2UcCKd8=
+			Stju+/9VH5Ye1IbYubn7ZvAc5vevqJdaneHno//tlzA=
+			</data>
+		</dict>
+		<key>assets/src/assets/json/rules_esp.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			StGK3Ej/jiOiY8sH31Cd77ibAhQbgUyb8gY6P0DBOPM=
+			</data>
+		</dict>
+		<key>assets/src/assets/json/rules_jp.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7JRdWdUCLJ9wpxCfeoQYTXrnGYc07SZ54T57p+N19rg=
+			</data>
+		</dict>
+		<key>assets/src/assets/json/rules_kr.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YZIyZHqBsTGjoLmVw81NYF/1VmRSvO1nqDIowAmIJIA=
+			</data>
+		</dict>
+		<key>assets/src/assets/json/rules_thai.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3PXgZufVMx5tUM6HA5uOgI12x0vYChzN16AAjJb+MIo=
+			</data>
+		</dict>
+		<key>assets/src/assets/json/rules_viet.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PKOxTHy3ccBD2dhm2Se6RWqFjB+ZnNQMBAYreXupACw=
+			</data>
+		</dict>
+		<key>assets/src/assets/json/rules_zh.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f1Pf/fnU2lk3D/SfM62y+a99sPtfkx5mYu3mw88Z8JY=
 			</data>
 		</dict>
 		<key>assets/src/assets/styles/theme/dark.json</key>
@@ -9149,7 +9215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			myieZXQfDAib+Vb1rYTe7f7oe7X4H8uKmTQMms84jj4=
+			cR3C34o5zvyz7WCFsV1/WfNYr4cTfRI6leGanAhgIGA=
 			</data>
 		</dict>
 	</dict>

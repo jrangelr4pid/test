@@ -1,0 +1,491 @@
+{
+    "Các quy định chung của Esports": [
+        {
+            "key": "1",
+            "values": [
+                "Phạm vi Trò chơi Áp dụng"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Hiện tại Phạm vi Trò chơi Áp dụng bao gồm: League of Legend (LOL), King of Glory (KOG), DOTA2, Counter-Strike: Global Offensive (CSGO), Player Unknown Battle Underground (PUGB), Overwatch, Call of Duty (COD), Hearthstone, Heroes of the Storm, NBA2K18, Rainbow 6, Starcraft1, Starcraft2 và Warcraft3."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Người chơi có thể cược Combo (gộp), Early Market (cược sớm), In-play (trong trận đấu), Today với các trò chơi kể trên."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "Ngày tháng và thời gian bắt đầu hiển thị trên Esports chỉ là chỉ báo và không đảm bảo chính xác. Tiền cược sẽ bị huỷ nếu ngày tháng và thời gian không chính xác.",
+                "Trong trường hợp trận đấu bị treo hoặc hoãn và không tiếp tục lại trong thời gian 12 tiếng kể từ lúc bắt đầu, tiền cược sẽ bị hủy và hoàn trả."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "Nếu có một người chơi/đội chơi thắng do không có đối thủ hoặc thắng không cần đấu trước khi trận đấu chính thức bắt đầu, tiền cược sẽ bị hủy và không có hiệu lực."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "Nếu trận đấu có kết quả chính thức đang chờ xử lý, trong thời gian 24 giờ kể từ thời gian bắt đầu dự kiến hoặc thời gian thực tế của trận đấu, các vé có thể hoàn sẽ bị huỷ và được hoàn trả."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "Xét theo các tiêu chí, quy định và quy cách của giải đấu, nếu một đội chiếm ưu thế trên chiến trường, giành được lãnh thổ sẽ được xem là phe chiến thắng khi chia thưởng."
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "Tiền cược sẽ được hủy và hoàn trả nếu vật phẩm được liệt kê không chính xác, đội Esports hoặc Thành viên đội liệt kê sai."
+            ]
+        },
+        {
+            "key": "8",
+            "values": [
+                "Trong trường hợp một đội/thành viên được coi là không thể tham gia do hạn chế hoặc vì lý do khác, tiền cược sẽ được xem xét không hợp lệ và bị hủy."
+            ]
+        },
+        {
+            "key": "9",
+            "values": [
+                "Nếu trận đấu hoặc màn đấu được chơi lại do mất kết nối hoặc do vấn đề kỹ thuật không liên quan đến người chơi, tiền cược trước trận sẽ được giữ ở trận đấu hoặc màn đấu lại theo kết quả chính thức. Tất cả các khoản cược trong trận đấu hoặc màn đấu bị ảnh hưởng sẽ bị không hợp lệ nếu không có quyết định về kết quả trận đấu hoặc nếu trận đấu lại được xét riêng."
+            ]
+        },
+        {
+            "key": "10",
+            "values": [
+                "Tỷ lệ cược Trận đấu sẽ được cập nhật vào bất cứ lúc nào, sau khi tiền cược được đặt."
+            ]
+        },
+        {
+            "key": "11",
+            "values": [
+                "Trận đấu bị hủy bỏ để tính cược Combo (gộp) sẽ được xem xét là một (1)"
+            ]
+        },
+        {
+            "key": "12",
+            "values": [
+                "Trong trường hợp sai tỷ lệ cược, bất kể đó do lỗi của con người hoặc hệ thống, đã ghi nhận tiền cược được đặt, Nền tảng bảo lưu mọi quyền vô hiệu và hoàn trả tiền cược."
+            ]
+        },
+        {
+            "key": "13",
+            "values": [
+                "Trong trường hợp trận đấu bắt đầu trước thời gian bắt đầu dự kiến, dẫn đến Cược không đóng, tiền cược được đặt sau thời gian đó sẽ bị coi là vô hiệu và được hoàn trả."
+            ]
+        },
+        {
+            "key": "14",
+            "values": [
+                "Cược Trận đấu, Tiền cược sẽ không hợp lệ nếu số lượng trận đấu hoặc màn đấu theo quy định bị thay đổi hoặc khác với các trận đấu hoặc màn đấu được cung cấp cho mục đích đặt cược. Trong trường hợp trận đấu bắt đầu và không được hoàn thành, tiền cược sẽ hủy nếu không xác định được kết quả trận đấu."
+            ]
+        },
+        {
+            "key": "15",
+            "values": [
+                "Nền tảng có quyền đình chỉ Cược/sự kiện bất cứ lúc nào hoặc hủy bỏ bất kỳ tiền cược đã đặt."
+            ]
+        },
+        {
+            "key": "16",
+            "values": [
+                "Nền tảng có quyền xem xét tiền cược là không hợp lệ và hủy khi đặt cược vào lỗi hệ thống hoặc các khoản cược nghi ngờ là bất thường."
+            ]
+        }
+    ],
+    "Trả thưởng Esports": [
+        {
+            "key": "1",
+            "values": [
+                "Với mục đích trả thưởng, khi Nền tảng trả thưởng và đưa ra kết luận các kết quả, đây được xem là kết quả chính thức, bất kể có thay đổi kết quả hoặc hủy bỏ."
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Trong trường hợp không kết luận kết quả, Nền tảng bảo lưu quyền giữ lại quy trình thanh toán khi nhận được và xác minh các nguồn có liên quan, API trận đấu, bảng điểm chính thức hoặc phát sóng. Nếu không kết luận kết quả trong thời gian 24 giờ kể từ thời gian bắt đầu dự kiến ​​ban đầu hoặc thời gian thực tế của trận đấu, sẽ hủy các vé có thể hoàn tiền và hoàn trả lại."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "Trong trường hợp không đưa ra kết quả Cược kịp thời và chính xác, Nền tảng bảo lưu quyền giữ lại quy trình thanh toán đến khi nhận được kết quả và xác minh các nguồn có liên quan, API trận đấu, bảng điểm chính thức hoặc phát sóng."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "Trong trường hợp kết quả Cược không chính xác hoặc mâu thuẫn, Nền tảng bảo lưu quyền giữ lại quy trình thanh toán và hủy bỏ kết quả Cược nếu cần thiết. Quyết định của nền tảng được xem là kết quả chính thức và cuối cùng."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "Trong trường hợp có bất kỳ kết quả mâu thuẫn nào, Nền tảng bảo lưu quyền sửa đổi hoặc chỉnh sửa kết quả khi nhận được và xác minh các nguồn có liên quan, API trận đấu, bảng điểm chính thức hoặc phát sóng. Nền tảng bảo lưu quyền xem xét kết quả đã sửa đổi là kết quả chính thức và cuối cùng."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "Bất kỳ kết quả mâu thuẫn nào cũng được công bố trong thời gian 72 giờ kể từ thời điểm bắt đầu sự kiện. Nền tảng bảo lưu quyền sửa đổi hoặc chỉnh sửa kết quả trong 72 giờ, kết quả sửa đổi được coi là kết quả chính thức và cuối cùng."
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "Trong trường hợp không có bằng chứng/nguồn nhất quán, độc lập hoặc khi có bằng chứng/nguồn mâu thuẫn đáng chú ý, Nền tảng bảo lưu quyền xem xét và dựa trên bảng điểm chính thức có sẵn, API trận đấu, và phát sóng để xác định kết quả là kết quả chính thức và cuối cùng."
+            ]
+        },
+        {
+            "key": "8",
+            "values": [
+                "Nếu thiếu bằng chứng nhất quán và độc lập hoặc bằng chứng về thông tin mâu thuẫn đáng chú ý, Cược sẽ được tính dựa trên dữ liệu của nền tảng này."
+            ]
+        }
+    ],
+    "Quy tắc Trò chơi chung": [
+        {
+            "key": "1",
+            "values": [
+                "Cược Winner (Người chiến thắng): Được định nghĩa là Người chiến thắng của Trận đấu/Trận đồ và tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng. Trong trường hợp trận đồ bị thay đổi hoặc khác với những gì được cung cấp cho mục đích cược, tiền cược bị coi là không hợp lệ và hoàn trả."
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Cược Handicap (Điểm chấp): tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng. Bao gồm số lượng trận đồ, vòng đấu, điểm tiêu diệt, v.v... Trong trường hợp trận đấu hoặc màn đấu bị thay đổi hoặc khác với những gì được cung cấp cho mục đích cá cược, tiền cược này được coi là không hợp lệ và được hoàn trả."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "Cược In-Play (Trực tiếp trong ván đấu): dựa trên lúc bắt đầu với tỷ số 0-0 và kết thúc vào ván đấu. Bất kể điểm số hiện tại của ván đấu/ màn chơi khi đặt cược là gì."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "League of Legend (LOL)"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Cược First Blood (Máu đầu tiên): Chỉ xét khi Giết đội/người chơi đối phương."
+                    ]
+                },
+                {
+                    "key": "b.",
+                    "values": [
+                        "Cược Structure (Trụ): Với mục đích trả thưởng, chỉ xem xét tất cả các tòa nhà bị phá hủy bởi đội/người chơi đối phương. Tháp Nexus được coi là tháp bị phá hủy. Sẽ trả thưởng dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                },
+                {
+                    "key": "c.",
+                    "values": [
+                        "Cược Monster (Thú): Sẽ chốt dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng. Elder Dragon/ Rồng Trưởng được xem là Rồng, được xét là Tổng Rồng bị giết."
+                    ]
+                },
+                {
+                    "key": "d.",
+                    "values": [
+                        "Tất cả các khoản cược dựa trên thời gian tính cược dựa trên đồng hồ điều kiện có trong trò chơi."
+                    ]
+                },
+                {
+                    "key": "e.",
+                    "values": [
+                        "Cược Thuộc tính Rồng: Thuộc tính của rồng nguyên tố tiếp theo sẽ được hiển thị trên tường, miễn là thuộc tính của rồng nguyên tố tiếp theo hiển thị điều đó có nghĩa là đã có kết quả."
+                    ]
+                },
+                {
+                    "key": "f.",
+                    "values": [
+                        "Giết lần 2, 3, 4, v.v ... Đội nào vừa giành được N số lần giết. Ví dụ: Giết lần 3: có nghĩa là đội bị giết lần 3. Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                },
+                {
+                    "key": "g.",
+                    "values": [
+                        "Cược Đua tới N số lần giết: Đội nào nhận được Đua tới N số lần giết đầu tiên. Ví dụ: Đua tới 5 lần giết: Có nghĩa là đội nào có được Cuộc đua đầu tiên tới 5 lần giết. Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "DOTA 2"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Cược First Blood (Máu đầu tiên): Chỉ xét khi Giết đội/người chơi đối phương."
+                    ]
+                },
+                {
+                    "key": "b.",
+                    "values": [
+                        "Cược Structure (Trụ): Với mục đích trả thưởng, chỉ xem xét tất cả các tòa nhà bị phá hủy bởi đội/người chơi đối phương. Sẽ trả thưởng dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng. Đối với trụ Defend Tower sẽ dựa trên kết quả chính thức. Nếu kết quả theo số đếm, chúng tôi cũng sẽ đếm."
+                    ]
+                },
+                {
+                    "key": "c.",
+                    "values": [
+                        "Cược Monster (Đội đầu tiên Giết quái Roshan): Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                },
+                {
+                    "key": "d.",
+                    "values": [
+                        "Tất cả các khoản cược dựa trên thời gian tính cược dựa trên đồng hồ điều kiện có trong trò chơi."
+                    ]
+                },
+                {
+                    "key": "e.",
+                    "values": [
+                        "Trong trường hợp, một đội/thành viên đầu hàng, tất cả các khoản cược sẽ tính cược theo kết quả như tuyên bố của cơ quan có liên quan của cuộc thi, chương trình phát sóng hoặc API trận đấu trò chơi cụ thể."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "CSGO"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Trường hợp có thể chơi ngoài giờ bao gồm trong việc tính cược, trừ khi người tham gia được xác định cho một Cược cụ thể, trong đó trường hợp tính cược sẽ dựa trên số vòng theo quy định."
+                    ]
+                },
+                {
+                    "key": "b.",
+                    "values": [
+                        "Cược Kill (Giết): Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                },
+                {
+                    "key": "c.",
+                    "values": [
+                        "Người Chiến thắng Hiệp Đầu: Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                },
+                {
+                    "key": "d.",
+                    "values": [
+                        "Trong trường hợp có bù giờ cũng bao gồm khi tính cược."
+                    ]
+                },
+                {
+                    "key": "e.",
+                    "values": [
+                        "Cược tổng Súng ngắn Tiêu diệt Trên/Dưới: Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu trò chơi và phát sóng. Bomb Kills được coi là Total Kill (Tổng mạng chết)."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "King of Glory (KOG)"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Cược First Blood (Máu Đầu tiên): Chỉ được xét khi bị đội/người chơi đối phương giết"
+                    ]
+                },
+                {
+                    "key": "b.",
+                    "values": [
+                        "Cược Structure (Trụ): Với mục đích trả thưởng, chỉ xem xét tất cả các trụ đội/người chơi đối phương phá. Phá Cora không được xem là Phá Tháp."
+                    ]
+                },
+                {
+                    "key": "c.",
+                    "values": [
+                        "Cược Monster (Quái): Sẽ tính cược dựa trên bảng điểm chính thức, API trận đấu hoặc phát sóng."
+                    ]
+                },
+                {
+                    "key": "d.",
+                    "values": [
+                        "Tất cả các khoản cược dựa trên thời gian tính cược dựa trên đồng hồ điều kiện có trong trò chơi."
+                    ]
+                }
+            ]
+        }
+    ],
+    "Các quy định chung của bóng rổ": [
+        {
+            "key": "1",
+            "values": [
+                "Nếu địa điểm theo lịch trình bị thay đổi, tất cả các khoản cược sẽ bị xem là không hợp lệ lực."
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Nếu game bị bỏ hiệp đầu, tất cả các khoản cược hiệp đầu được xem là không hợp lệ lực. Nếu game bị hủy trong hiệp 2, tất cả các khoản cược của hiệp 2 được coi là không hợp lệ lực, trừ khi có quy định khác trong quy định loại đặt cược lẻ. Tất cả các khoản cược hiệp đầu sẽ vẫn có hiệu lực."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "Đối với Đặt cược ¼ hoặc ½ , thời gian phải được hoàn thành để cược có hiệu lực, trừ khi được quy định rõ ràng dưới đây hoặc trong các quy định Loại Cược riêng lẻ.."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "Quy tắc địa điểm NCAA: Vui lòng lưu ý rằng địa điểm \"Sân nhà\" và \"Sân khách\" được hiển thị trên trang web chỉ mang tính tham khảo. Cược sẽ giữ nguyên bất kể có thay đổi địa điểm, có thể là địa điểm của đội \"Nhà\", địa điểm của đội \"Khách\" hoặc đến địa điểm \"Trung lập\""
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "Nếu game bắt đầu trước thời gian dự kiến, chỉ các khoản cược được đặt trước khi trò chơi bắt đầu sẽ được coi là hợp lệ. Cược đặt sau khi trò chơi bắt đầu sẽ bị coi là không hợp lệ. Không bao gồm với cược In-Play (trực tiếp trong trận đấu)."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "Bù giờ bao gồm cho bất kỳ cược Game hoặc Hiệp 2, trừ khi có quy định khác. Cá cược lần 4 không bao gồm bù giờ."
+            ]
+        },
+        {
+            "key": "7",
+            "values": [
+                "Bóng rổ 3 x 3, việc tính cược sẽ dựa trên các quy định thi đấu chính thức, đặc biệt đối với các phiên bản trận đấu Street Ball và Big 3."
+            ]
+        }
+    ],
+    "Cược người chiến thắng": [
+        {
+            "key": "1",
+            "values": [
+                "Dự đoán người chiến thắng trong một giải vô địch, giải đấu hoặc trong một trận đấu được chỉ định hoàn toàn. Các đội hoặc người chơi được chọn có được chiến thắng cuối cùng được coi là tuân thủ các điều kiện trả thưởng, bao gồm:"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Kết quả cuối cùng của giải đấu, ví dụ: Người chiến thắng vô địch World Cup"
+                    ]
+                },
+                {
+                    "key": "b.",
+                    "values": [
+                        "Giành chiến thắng vòng sơ khảo, ví dụ: Vòng bảng vô địch World Cup"
+                    ]
+                },
+                {
+                    "key": "c.",
+                    "values": [
+                        "Điểm cao nhất."
+                    ]
+                },
+                {
+                    "key": "d.",
+                    "values": [
+                        "Cầu thủ hay nhất,v.v...."
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Các quy định chung"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Tất cả các khoản cược hoàn toàn dựa trên kết quả cuối cùng của trận đấu."
+                    ]
+                },
+                {
+                    "key": "b.",
+                    "values": [
+                        "Nếu đặt cược vào người chơi hoặc đội tham gia cuộc thi hoặc giải đấu này, tất cả các khoản cược được đặt cho người chơi hoặc đội này sẽ bị coi là không hợp lệ, ngay cả khi họ bị loại, nghỉ hưu hoặc không hoàn thành cuộc thi vì bất kỳ lý do nào."
+                    ]
+                },
+                {
+                    "key": "c.",
+                    "values": [
+                        "Người chiến thắng là người chơi hoặc đội chơi chiến thắng theo phán quyết cuối cùng."
+                    ]
+                },
+                {
+                    "key": "d.",
+                    "values": [
+                        "Những người tham gia sử dụng \"Người chơi khác\" hoặc \"Đội khác\" thay vì có tên sẽ được coi vô danh."
+                    ]
+                },
+                {
+                    "key": "e.",
+                    "values": [
+                        "Nếu ngày cuối cùng của cuộc thi bị hoãn hoặc cuộc thi bị hủy sẽ không được tính và sẽ không ảnh hưởng đến việc tính toán trận đấu. Các sự kiện trì hoãn hoặc bị hủy không được tính, nếu không đóng cược do lỗi của con người hoặc lỗi kỹ thuật, chúng tôi có quyền hủy các đặt cược sai."
+                    ]
+                }
+            ]
+        }
+    ],
+    "Anchor (Streamer)": [
+        {
+            "key": "1",
+            "values": [
+                "Số game bao gồm tất cả các game do người chơi thực hiện trong ngày hôm đó, không phân biệt chế độ game đã chơi (ví dụ: đơn, đôi/ đồng đội)"
+            ]
+        },
+        {
+            "key": "2",
+            "values": [
+                "Dữ liệu được ghi cho mỗi người chơi dựa trên tên trong game đã đăng ký, không phải ID của người chơi."
+            ]
+        },
+        {
+            "key": "3",
+            "values": [
+                "Kỹ năng thu được chỉ bao gồm những kỹ năng do người chơi đạt được. Không bao gồm những kỹ năng có được khi chơi đồng đội."
+            ]
+        },
+        {
+            "key": "4",
+            "values": [
+                "Đối với các trận đấu đôi hoặc đồng đội, vị trí trận đấu cuối cùng sẽ được xác định bởi thành tích, kết quả của đội."
+            ]
+        },
+        {
+            "key": "5",
+            "values": [
+                "Cược Structure (Trụ): Với mục đích trả thưởng, chỉ tính các trụ do người chơi phá hủy, không phải do Quái hoặc Lính phá hủy."
+            ]
+        },
+        {
+            "key": "6",
+            "values": [
+                "Đối với trò chơi League of Legend, trong trường hợp streamer kết thúc trò chơi thông qua bỏ phiếu bằng hình thức đầu hàng hoặc tuyên bố \"GG\", trò chơi sẻ được xem như không tính bất kể thời gian của trận đấu. Trận đấu được xem là hoàn tất khi có đội đánh bể Nexus của đội đối phương. Quá trình giải quyết sẽ dựa trên việc có được và xác minh các tài nguyên có liên quan, API trò chơi, bảng điểm chính thức."
+            ]
+        }
+    ]
+}

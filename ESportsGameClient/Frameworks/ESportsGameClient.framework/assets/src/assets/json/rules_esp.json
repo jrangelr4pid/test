@@ -1,0 +1,159 @@
+{
+    "Reglas Generales de Esports": [
+        { 
+            "key": "1", 
+            "values": [
+                "Cobertura del juego"
+            ],
+            "sub_values": [
+                {
+                    "key": "a.",
+                    "values": [
+                        "Actualmente, la cobertura de los juegos es la siguiente: League of Legend (LOL), King of Glory (KOG), DOTA2, Counter-Strike: Global Offensive (CSGO), Player Unknown Battle Underground (PUGB), Overwatch, Call of Duty (COD), Hearthstone, Heroes of the Storm, NBA2K18, Rainbow 6, Starcraft1, Starcraft2 y Warcraft3."
+                    ]
+                }
+            ]
+        },
+        { 
+            "key": "2", 
+            "values": [
+                "Estos juegos anteriores están disponibles para que los miembros elijan en Combo, Mercado temprano, En juego, Mercados de hoy."
+            ]
+        },
+        { 
+            "key": "3", 
+            "values": [
+                "Las fechas y horas de inicio que se muestran para Esports Game son solo una indicación y no se garantiza que sean precisas y correctas. Las apuestas serán canceladas si se ofrecen en una fecha y hora incorrectas.",
+                "En caso de que el partido se suspenda o posponga y no se reanude dentro de las 12 horas posteriores a la hora de inicio programada inicial / real, la apuesta será cancelada y reembolsada."
+            ]
+        },
+        { 
+            "key": "4", 
+            "values": [
+                "Si hay un jugador / equipo que recibe un pase en al menos un mapa antes de que comience el partido oficial, las apuestas serán canceladas y anuladas."
+            ]
+        },
+        { 
+            "key": "5", 
+            "values": [
+                "Si un partido vence por resultados oficiales pendientes, dentro de las 24 horas a partir de la hora de inicio programada inicial / real del partido, los boletos pendientes serán cancelados y reembolsados."
+            ]
+        },
+        { 
+            "key": "6", 
+            "values": [
+                "Si un equipo recibe una ventaja de mapa de acuerdo con el formato y las reglas específicas del torneo, el equipo que reciba el mapa será considerado el ganador del mapa para fines de liquidación."
+            ]
+        },
+        { 
+            "key": "7", 
+            "values": [
+                "Las apuestas serán canceladas y reembolsadas si los accesorios del evento figuran incorrectamente, Esports Team o Team Member enumerados incorrectamente."
+            ]
+        },
+        { 
+            "key": "8", 
+            "values": [
+                "En el caso de que un equipo / miembro considere que no puede participar debido a la abstención u otras razones, las apuestas se considerarán nulas y canceladas."
+            ]
+        },
+        { 
+            "key": "9", 
+            "values": [
+                "Si un partido o mapa se reproduce debido a una desconexión o un problema técnico no relacionado con el jugador, las apuestas previas al partido se mantendrán en el partido o mapa reproducido de acuerdo con el resultado oficial. Todas las apuestas en juego en el partido o mapa afectado se anularán a menos que el resultado ya esté determinado, y el partido o mapa reproducido se tratará como una entidad separada."
+            ]
+        },
+        { 
+            "key": "10", 
+            "values": [
+                "Match Odds se actualizará en cualquier momento, es después de que se haya realizado la apuesta."
+            ]
+        },
+        { 
+            "key": "11", 
+            "values": [
+                "La partida que se cancela para el cálculo combinado se considerará como uno (1)"
+            ]
+        },
+        { 
+            "key": "12", 
+            "values": [
+                "En el caso de probabilidades erróneas, independientemente de que se deba a un error humano o del sistema, las apuestas recibidas en los mercados, Platform se reserva el derecho de anular y reembolsar las apuestas."
+            ]
+        },
+        { 
+            "key": "13", 
+            "values": [
+                "En el caso de que el partido comience antes de la hora de inicio programada, resultando en mercados no cerrados, las apuestas realizadas después del tiempo se considerarán nulas y reembolsadas."
+            ]
+        },
+        { 
+            "key": "14", 
+            "values": [
+                "Match Markets, Wagers se anulará si se cambia el número legal de mapas, o si es diferente de los ofrecidos para apuestas. En caso de que el partido comience y no se complete, las apuestas serán nulas a menos que el resultado ya esté determinado."
+            ]
+        },
+        { 
+            "key": "15", 
+            "values": [
+                "La plataforma se reserva el derecho de suspender los mercados / eventos en cualquier momento o cancelar cualquier apuesta realizada."
+            ]
+        },
+        { 
+            "key": "16", 
+            "values": [
+                "Apostando por la vulnerabilidad del sistema u otras apuestas anormales sospechosas, Platform se reserva el derecho de considerar las apuestas nulas y canceladas."
+            ]
+        }
+    ],
+    "Liquidación de Esports": [
+        { 
+            "key": "1", 
+            "values": [
+                "Para fines de liquidación, la Plataforma al otorgar y concluir los resultados, se considera como resultado oficial, independientemente de si hay un cambio en los resultados o cancelación."
+            ]
+        },
+        { 
+            "key": "2", 
+            "values": [
+                "En caso de que los resultados no se concluyan, la Plataforma se reserva el derecho de retener el proceso de liquidación al obtener y verificar los recursos relevantes, el API del juego, el marcador oficial o la transmisión. Si los resultados no se concluyen dentro de las 24 horas a partir de la hora de inicio programada inicial / real del partido, los boletos pendientes serán cancelados y reembolsados."
+            ]
+        },
+        { 
+            "key": "3", 
+            "values": [
+                "En el caso de que los resultados de los mercados no se concluyan de manera oportuna y precisa, la Plataforma se reserva el derecho de retener el proceso de liquidación al obtener y verificar los recursos relevantes, el API del juego, el marcador oficial o la transmisión."
+            ]
+        },
+        { 
+            "key": "4", 
+            "values": [
+                "En el caso de que los resultados de los mercados sean incorrectos o conflictivos, Platform se reserva el derecho de retener el proceso de liquidación y cancelar los mercados si es necesario. La decisión de la plataforma se considera resultados oficiales y finales."
+            ]
+        },
+        { 
+            "key": "5", 
+            "values": [
+                "En el caso de que haya resultados contradictorios, la Plataforma se reserva el derecho de modificar o corregir los resultados al obtener y verificar recursos relevantes, API del juego, marcador oficial o transmisión. La plataforma se reserva el derecho de considerar los resultados modificados como resultados oficiales y finales."
+            ]
+        },
+        { 
+            "key": "6", 
+            "values": [
+                "Cualquier resultado contradictorio debe darse a conocer dentro de las 72 horas de la hora de inicio inicial del evento. La plataforma se reserva el derecho de modificar o corregir los resultados dentro de las 72 horas indicadas, los resultados modificados se consideran resultados oficiales y finales."
+            ]
+        },
+        { 
+            "key": "7", 
+            "values": [
+                "En ausencia de evidencia / fuentes consistentes e independientes o en presencia de evidencia / fuentes significativas en conflicto, Platform se reserva el derecho de considerar y en base al marcador oficial disponible, API del juego y transmisión para determinar los resultados como resultados oficiales y finales."
+            ]
+        },
+        { 
+            "key": "8", 
+            "values": [
+                "Si la falta de evidencia consistente e independiente, o evidencia de información conflictiva significativa, las apuestas se resolverán con base en los datos de esta plataforma."
+            ]
+        }
+    ]
+}
