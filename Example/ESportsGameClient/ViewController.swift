@@ -19,7 +19,8 @@ class ViewController: UIViewController {
   override func viewDidAppear(_ animated: Bool) {
     super.viewDidAppear(animated)
     ESportsGameClient.sharedInstance()?.launchMode = LaunchMode.usingPartnerMemberToken("testjust", publicToken: "13914810-df06-4adb-9838-f8e9668321e3")
-    ESportsGameClient.sharedInstance()?.homeIcon = HomeIcon.back()
+//    ESportsGameClient.sharedInstance()?.homeIcon = HomeIcon.back()
+    ESportsGameClient.sharedInstance()?.homeIcon = HomeIcon.customURL("https://image.flaticon.com/icons/png/512/23/23678.png")
     ESportsGameClient.sharedInstance()?.theme = Theme.dark()
     ESportsGameClient.sharedInstance()?.accountName = "Justine"
     ESportsGameClient.show(self)
